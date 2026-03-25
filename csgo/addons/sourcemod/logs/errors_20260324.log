@@ -1,0 +1,775 @@
+L 03/24/2026 - 02:54:16: SourceMod error session started
+L 03/24/2026 - 02:54:16: Info (map "de_dust2") (file "c:\games\csgo_server\csgo\addons\sourcemod\logs\errors_20260324.log")
+L 03/24/2026 - 02:54:16: [SM] Exception reported: [SQLMatch] Database connection failed: [2003]: Can't connect to MySQL server on 'localhost' (10061)
+L 03/24/2026 - 02:54:16: [SM] Blaming: sqlmatch.smx
+L 03/24/2026 - 02:54:16: [SM] Call stack trace:
+L 03/24/2026 - 02:54:16: [SM]   [0] SetFailState
+L 03/24/2026 - 02:54:16: [SM]   [1] Line 53, sqlmatch.sp::ConnectDatabase
+L 03/24/2026 - 02:54:16: [SM]   [2] Line 26, sqlmatch.sp::OnPluginStart
+L 03/24/2026 - 02:54:16: [SM] Unable to load plugin "sqlmatch.smx": Error detected in plugin startup (see error logs)
+L 03/24/2026 - 02:54:22: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 03/24/2026 - 02:54:22: [SM] Exception reported: Mapcycle Not Found
+L 03/24/2026 - 02:54:22: [SM] Blaming: nextmap.smx
+L 03/24/2026 - 02:54:22: [SM] Call stack trace:
+L 03/24/2026 - 02:54:22: [SM]   [0] SetFailState
+L 03/24/2026 - 02:54:22: [SM]   [1] Line 153, D:\builds\build-sourcemod-msvc12\windows-1.13\build\plugins\nextmap.sp::FindAndSetNextMap
+L 03/24/2026 - 02:54:22: [SM]   [2] Line 115, D:\builds\build-sourcemod-msvc12\windows-1.13\build\plugins\nextmap.sp::OnConfigsExecuted
+L 03/24/2026 - 02:55:39: SourceMod error session started
+L 03/24/2026 - 02:55:39: Info (map "de_dust2") (file "c:\games\csgo_server\csgo\addons\sourcemod\logs\errors_20260324.log")
+L 03/24/2026 - 02:55:39: [SM] Exception reported: [SQLMatch] Database connection failed: [2003]: Can't connect to MySQL server on 'localhost' (10061)
+L 03/24/2026 - 02:55:39: [SM] Blaming: sqlmatch.smx
+L 03/24/2026 - 02:55:39: [SM] Call stack trace:
+L 03/24/2026 - 02:55:39: [SM]   [0] SetFailState
+L 03/24/2026 - 02:55:39: [SM]   [1] Line 53, sqlmatch.sp::ConnectDatabase
+L 03/24/2026 - 02:55:39: [SM]   [2] Line 26, sqlmatch.sp::OnPluginStart
+L 03/24/2026 - 02:55:39: [SM] Unable to load plugin "sqlmatch.smx": Error detected in plugin startup (see error logs)
+L 03/24/2026 - 02:55:44: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 03/24/2026 - 02:55:44: [SM] Exception reported: Mapcycle Not Found
+L 03/24/2026 - 02:55:44: [SM] Blaming: nextmap.smx
+L 03/24/2026 - 02:55:44: [SM] Call stack trace:
+L 03/24/2026 - 02:55:44: [SM]   [0] SetFailState
+L 03/24/2026 - 02:55:44: [SM]   [1] Line 153, D:\builds\build-sourcemod-msvc12\windows-1.13\build\plugins\nextmap.sp::FindAndSetNextMap
+L 03/24/2026 - 02:55:44: [SM]   [2] Line 115, D:\builds\build-sourcemod-msvc12\windows-1.13\build\plugins\nextmap.sp::OnConfigsExecuted
+L 03/24/2026 - 02:58:02: SourceMod error session started
+L 03/24/2026 - 02:58:02: Info (map "de_dust2") (file "c:\games\csgo_server\csgo\addons\sourcemod\logs\errors_20260324.log")
+L 03/24/2026 - 02:58:02: [SM] Exception reported: [SQLMatch] Database connection failed: [2003]: Can't connect to MySQL server on 'localhost' (10061)
+L 03/24/2026 - 02:58:02: [SM] Blaming: sqlmatch.smx
+L 03/24/2026 - 02:58:02: [SM] Call stack trace:
+L 03/24/2026 - 02:58:02: [SM]   [0] SetFailState
+L 03/24/2026 - 02:58:02: [SM]   [1] Line 53, sqlmatch.sp::ConnectDatabase
+L 03/24/2026 - 02:58:02: [SM]   [2] Line 26, sqlmatch.sp::OnPluginStart
+L 03/24/2026 - 02:58:02: [SM] Unable to load plugin "sqlmatch.smx": Error detected in plugin startup (see error logs)
+L 03/24/2026 - 02:59:05: SourceMod error session started
+L 03/24/2026 - 02:59:05: Info (map "de_dust2") (file "c:\games\csgo_server\csgo\addons\sourcemod\logs\errors_20260324.log")
+L 03/24/2026 - 02:59:05: [SM] Exception reported: [SQLMatch] Database connection failed: [2003]: Can't connect to MySQL server on 'localhost' (10061)
+L 03/24/2026 - 02:59:05: [SM] Blaming: sqlmatch.smx
+L 03/24/2026 - 02:59:05: [SM] Call stack trace:
+L 03/24/2026 - 02:59:05: [SM]   [0] SetFailState
+L 03/24/2026 - 02:59:05: [SM]   [1] Line 53, sqlmatch.sp::ConnectDatabase
+L 03/24/2026 - 02:59:05: [SM]   [2] Line 26, sqlmatch.sp::OnPluginStart
+L 03/24/2026 - 02:59:05: [SM] Unable to load plugin "sqlmatch.smx": Error detected in plugin startup (see error logs)
+L 03/24/2026 - 02:59:10: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 03/24/2026 - 02:59:10: [SM] Exception reported: Mapcycle Not Found
+L 03/24/2026 - 02:59:10: [SM] Blaming: nextmap.smx
+L 03/24/2026 - 02:59:10: [SM] Call stack trace:
+L 03/24/2026 - 02:59:10: [SM]   [0] SetFailState
+L 03/24/2026 - 02:59:10: [SM]   [1] Line 153, D:\builds\build-sourcemod-msvc12\windows-1.13\build\plugins\nextmap.sp::FindAndSetNextMap
+L 03/24/2026 - 02:59:10: [SM]   [2] Line 115, D:\builds\build-sourcemod-msvc12\windows-1.13\build\plugins\nextmap.sp::OnConfigsExecuted
+L 03/24/2026 - 03:01:16: [SM] Exception reported: Cannot set m_iEntityQuality with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:01:16: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:01:16: [SM] Call stack trace:
+L 03/24/2026 - 03:01:16: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:01:16: [SM]   [1] Line 663, bot_inventory.sp::GiveNamedItemPost
+L 03/24/2026 - 03:01:16: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:01:16: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:01:16: [SM] Call stack trace:
+L 03/24/2026 - 03:01:16: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:01:16: [SM]   [1] Line 908, bot_inventory.sp::SetWeaponProps
+L 03/24/2026 - 03:01:16: [SM]   [2] Line 665, bot_inventory.sp::GiveNamedItemPost
+L 03/24/2026 - 03:01:16: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:01:16: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:01:16: [SM] Call stack trace:
+L 03/24/2026 - 03:01:16: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:01:16: [SM]   [1] Line 996, bot_inventory.sp::GivePlayerGloves
+L 03/24/2026 - 03:01:16: [SM]   [2] Line 798, bot_inventory.sp::Event_PlayerSpawn
+L 03/24/2026 - 03:01:16: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:01:16: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:01:16: [SM] Call stack trace:
+L 03/24/2026 - 03:01:16: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:01:16: [SM]   [1] Line 908, bot_inventory.sp::SetWeaponProps
+L 03/24/2026 - 03:01:16: [SM]   [2] Line 665, bot_inventory.sp::GiveNamedItemPost
+L 03/24/2026 - 03:01:16: [SM]   [4] GivePlayerItem
+L 03/24/2026 - 03:01:16: [SM]   [5] Line 2221, bot_stuff.sp::ReplaceWeapon
+L 03/24/2026 - 03:01:16: [SM]   [6] Line 1646, bot_stuff.sp::OnPlayerSpawn
+L 03/24/2026 - 03:01:16: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:01:16: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:01:17: [SM] Call stack trace:
+L 03/24/2026 - 03:01:17: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:01:17: [SM]   [1] Line 996, bot_inventory.sp::GivePlayerGloves
+L 03/24/2026 - 03:01:17: [SM]   [2] Line 798, bot_inventory.sp::Event_PlayerSpawn
+L 03/24/2026 - 03:01:17: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:01:17: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:01:17: [SM] Call stack trace:
+L 03/24/2026 - 03:01:17: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:01:17: [SM]   [1] Line 996, bot_inventory.sp::GivePlayerGloves
+L 03/24/2026 - 03:01:17: [SM]   [2] Line 798, bot_inventory.sp::Event_PlayerSpawn
+L 03/24/2026 - 03:01:24: [SM] Exception reported: Cannot set m_iEntityQuality with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:01:24: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:01:24: [SM] Call stack trace:
+L 03/24/2026 - 03:01:24: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:01:24: [SM]   [1] Line 663, bot_inventory.sp::GiveNamedItemPost
+L 03/24/2026 - 03:01:24: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:01:24: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:01:24: [SM] Call stack trace:
+L 03/24/2026 - 03:01:24: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:01:24: [SM]   [1] Line 908, bot_inventory.sp::SetWeaponProps
+L 03/24/2026 - 03:01:24: [SM]   [2] Line 665, bot_inventory.sp::GiveNamedItemPost
+L 03/24/2026 - 03:01:24: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:01:24: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:01:24: [SM] Call stack trace:
+L 03/24/2026 - 03:01:25: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:01:25: [SM]   [1] Line 996, bot_inventory.sp::GivePlayerGloves
+L 03/24/2026 - 03:01:25: [SM]   [2] Line 798, bot_inventory.sp::Event_PlayerSpawn
+L 03/24/2026 - 03:01:25: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:01:25: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:01:25: [SM] Call stack trace:
+L 03/24/2026 - 03:01:25: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:01:25: [SM]   [1] Line 908, bot_inventory.sp::SetWeaponProps
+L 03/24/2026 - 03:01:25: [SM]   [2] Line 665, bot_inventory.sp::GiveNamedItemPost
+L 03/24/2026 - 03:01:32: [SM] Exception reported: Cannot set m_iEntityQuality with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:01:32: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:01:32: [SM] Call stack trace:
+L 03/24/2026 - 03:01:32: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:01:32: [SM]   [1] Line 663, bot_inventory.sp::GiveNamedItemPost
+L 03/24/2026 - 03:01:32: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:01:32: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:01:32: [SM] Call stack trace:
+L 03/24/2026 - 03:01:32: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:01:32: [SM]   [1] Line 908, bot_inventory.sp::SetWeaponProps
+L 03/24/2026 - 03:01:32: [SM]   [2] Line 665, bot_inventory.sp::GiveNamedItemPost
+L 03/24/2026 - 03:01:32: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:01:33: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:01:33: [SM] Call stack trace:
+L 03/24/2026 - 03:01:33: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:01:33: [SM]   [1] Line 996, bot_inventory.sp::GivePlayerGloves
+L 03/24/2026 - 03:01:33: [SM]   [2] Line 798, bot_inventory.sp::Event_PlayerSpawn
+L 03/24/2026 - 03:01:33: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:01:33: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:01:33: [SM] Call stack trace:
+L 03/24/2026 - 03:01:33: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:01:33: [SM]   [1] Line 908, bot_inventory.sp::SetWeaponProps
+L 03/24/2026 - 03:01:33: [SM]   [2] Line 665, bot_inventory.sp::GiveNamedItemPost
+L 03/24/2026 - 03:01:33: [SM]   [4] GivePlayerItem
+L 03/24/2026 - 03:01:33: [SM]   [5] Line 2221, bot_stuff.sp::ReplaceWeapon
+L 03/24/2026 - 03:01:33: [SM]   [6] Line 1646, bot_stuff.sp::OnPlayerSpawn
+L 03/24/2026 - 03:01:33: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:01:33: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:01:33: [SM] Call stack trace:
+L 03/24/2026 - 03:01:33: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:01:33: [SM]   [1] Line 996, bot_inventory.sp::GivePlayerGloves
+L 03/24/2026 - 03:01:33: [SM]   [2] Line 798, bot_inventory.sp::Event_PlayerSpawn
+L 03/24/2026 - 03:01:34: [SM] Exception reported: Cannot set m_iEntityQuality with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:01:34: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:01:34: [SM] Call stack trace:
+L 03/24/2026 - 03:01:34: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:01:34: [SM]   [1] Line 663, bot_inventory.sp::GiveNamedItemPost
+L 03/24/2026 - 03:01:34: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:01:34: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:01:34: [SM] Call stack trace:
+L 03/24/2026 - 03:01:34: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:01:34: [SM]   [1] Line 908, bot_inventory.sp::SetWeaponProps
+L 03/24/2026 - 03:01:34: [SM]   [2] Line 665, bot_inventory.sp::GiveNamedItemPost
+L 03/24/2026 - 03:01:34: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:01:34: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:01:34: [SM] Call stack trace:
+L 03/24/2026 - 03:01:34: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:01:34: [SM]   [1] Line 996, bot_inventory.sp::GivePlayerGloves
+L 03/24/2026 - 03:01:34: [SM]   [2] Line 798, bot_inventory.sp::Event_PlayerSpawn
+L 03/24/2026 - 03:01:34: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:01:34: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:01:34: [SM] Call stack trace:
+L 03/24/2026 - 03:01:34: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:01:34: [SM]   [1] Line 996, bot_inventory.sp::GivePlayerGloves
+L 03/24/2026 - 03:01:34: [SM]   [2] Line 798, bot_inventory.sp::Event_PlayerSpawn
+L 03/24/2026 - 03:01:36: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:01:36: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:01:36: [SM] Call stack trace:
+L 03/24/2026 - 03:01:36: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:01:37: [SM]   [1] Line 996, bot_inventory.sp::GivePlayerGloves
+L 03/24/2026 - 03:01:37: [SM]   [2] Line 798, bot_inventory.sp::Event_PlayerSpawn
+L 03/24/2026 - 03:01:37: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:01:37: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:01:37: [SM] Call stack trace:
+L 03/24/2026 - 03:01:37: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:01:37: [SM]   [1] Line 996, bot_inventory.sp::GivePlayerGloves
+L 03/24/2026 - 03:01:37: [SM]   [2] Line 798, bot_inventory.sp::Event_PlayerSpawn
+L 03/24/2026 - 03:01:37: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:01:38: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:01:38: [SM] Call stack trace:
+L 03/24/2026 - 03:01:38: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:01:38: [SM]   [1] Line 996, bot_inventory.sp::GivePlayerGloves
+L 03/24/2026 - 03:01:38: [SM]   [2] Line 798, bot_inventory.sp::Event_PlayerSpawn
+L 03/24/2026 - 03:01:38: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:01:38: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:01:38: [SM] Call stack trace:
+L 03/24/2026 - 03:01:38: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:01:38: [SM]   [1] Line 996, bot_inventory.sp::GivePlayerGloves
+L 03/24/2026 - 03:01:38: [SM]   [2] Line 798, bot_inventory.sp::Event_PlayerSpawn
+L 03/24/2026 - 03:01:39: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:01:39: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:01:39: [SM] Call stack trace:
+L 03/24/2026 - 03:01:39: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:01:39: [SM]   [1] Line 996, bot_inventory.sp::GivePlayerGloves
+L 03/24/2026 - 03:01:39: [SM]   [2] Line 798, bot_inventory.sp::Event_PlayerSpawn
+L 03/24/2026 - 03:01:39: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:01:39: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:01:39: [SM] Call stack trace:
+L 03/24/2026 - 03:01:39: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:01:39: [SM]   [1] Line 996, bot_inventory.sp::GivePlayerGloves
+L 03/24/2026 - 03:01:39: [SM]   [2] Line 798, bot_inventory.sp::Event_PlayerSpawn
+L 03/24/2026 - 03:01:53: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:01:53: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:01:53: [SM] Call stack trace:
+L 03/24/2026 - 03:01:53: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:01:53: [SM]   [1] Line 908, bot_inventory.sp::SetWeaponProps
+L 03/24/2026 - 03:01:53: [SM]   [2] Line 665, bot_inventory.sp::GiveNamedItemPost
+L 03/24/2026 - 03:01:53: [SM]   [4] FakeClientCommand
+L 03/24/2026 - 03:01:53: [SM]   [5] Line 533, bot_stuff.sp::BuyEcoPistolAndGear
+L 03/24/2026 - 03:01:53: [SM]   [6] Line 519, bot_stuff.sp::Timer_CheckPlayer
+L 03/24/2026 - 03:02:12: [SM] Exception reported: Cannot set m_iEntityQuality with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:02:12: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:02:12: [SM] Call stack trace:
+L 03/24/2026 - 03:02:12: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:02:12: [SM]   [1] Line 663, bot_inventory.sp::GiveNamedItemPost
+L 03/24/2026 - 03:02:12: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:02:12: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:02:12: [SM] Call stack trace:
+L 03/24/2026 - 03:02:12: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:02:12: [SM]   [1] Line 908, bot_inventory.sp::SetWeaponProps
+L 03/24/2026 - 03:02:12: [SM]   [2] Line 665, bot_inventory.sp::GiveNamedItemPost
+L 03/24/2026 - 03:02:12: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:02:12: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:02:12: [SM] Call stack trace:
+L 03/24/2026 - 03:02:12: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:02:12: [SM]   [1] Line 996, bot_inventory.sp::GivePlayerGloves
+L 03/24/2026 - 03:02:12: [SM]   [2] Line 798, bot_inventory.sp::Event_PlayerSpawn
+L 03/24/2026 - 03:02:12: [SM] Exception reported: Cannot set m_iEntityQuality with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:02:12: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:02:12: [SM] Call stack trace:
+L 03/24/2026 - 03:02:12: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:02:12: [SM]   [1] Line 663, bot_inventory.sp::GiveNamedItemPost
+L 03/24/2026 - 03:02:12: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:02:12: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:02:12: [SM] Call stack trace:
+L 03/24/2026 - 03:02:12: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:02:12: [SM]   [1] Line 908, bot_inventory.sp::SetWeaponProps
+L 03/24/2026 - 03:02:13: [SM]   [2] Line 665, bot_inventory.sp::GiveNamedItemPost
+L 03/24/2026 - 03:02:13: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:02:13: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:02:13: [SM] Call stack trace:
+L 03/24/2026 - 03:02:13: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:02:13: [SM]   [1] Line 996, bot_inventory.sp::GivePlayerGloves
+L 03/24/2026 - 03:02:13: [SM]   [2] Line 798, bot_inventory.sp::Event_PlayerSpawn
+L 03/24/2026 - 03:02:13: [SM] Exception reported: Cannot set m_iEntityQuality with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:02:13: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:02:13: [SM] Call stack trace:
+L 03/24/2026 - 03:02:13: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:02:13: [SM]   [1] Line 663, bot_inventory.sp::GiveNamedItemPost
+L 03/24/2026 - 03:02:13: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:02:13: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:02:13: [SM] Call stack trace:
+L 03/24/2026 - 03:02:13: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:02:13: [SM]   [1] Line 908, bot_inventory.sp::SetWeaponProps
+L 03/24/2026 - 03:02:13: [SM]   [2] Line 665, bot_inventory.sp::GiveNamedItemPost
+L 03/24/2026 - 03:02:13: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:02:13: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:02:13: [SM] Call stack trace:
+L 03/24/2026 - 03:02:13: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:02:13: [SM]   [1] Line 996, bot_inventory.sp::GivePlayerGloves
+L 03/24/2026 - 03:02:13: [SM]   [2] Line 798, bot_inventory.sp::Event_PlayerSpawn
+L 03/24/2026 - 03:02:13: [SM] Exception reported: Cannot set m_iEntityQuality with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:02:13: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:02:13: [SM] Call stack trace:
+L 03/24/2026 - 03:02:13: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:02:13: [SM]   [1] Line 663, bot_inventory.sp::GiveNamedItemPost
+L 03/24/2026 - 03:02:13: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:02:13: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:02:13: [SM] Call stack trace:
+L 03/24/2026 - 03:02:13: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:02:13: [SM]   [1] Line 908, bot_inventory.sp::SetWeaponProps
+L 03/24/2026 - 03:02:13: [SM]   [2] Line 665, bot_inventory.sp::GiveNamedItemPost
+L 03/24/2026 - 03:02:14: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:02:14: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:02:14: [SM] Call stack trace:
+L 03/24/2026 - 03:02:14: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:02:14: [SM]   [1] Line 996, bot_inventory.sp::GivePlayerGloves
+L 03/24/2026 - 03:02:14: [SM]   [2] Line 798, bot_inventory.sp::Event_PlayerSpawn
+L 03/24/2026 - 03:02:14: [SM] Exception reported: Cannot set m_iEntityQuality with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:02:14: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:02:14: [SM] Call stack trace:
+L 03/24/2026 - 03:02:14: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:02:14: [SM]   [1] Line 663, bot_inventory.sp::GiveNamedItemPost
+L 03/24/2026 - 03:02:14: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:02:14: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:02:14: [SM] Call stack trace:
+L 03/24/2026 - 03:02:14: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:02:14: [SM]   [1] Line 908, bot_inventory.sp::SetWeaponProps
+L 03/24/2026 - 03:02:14: [SM]   [2] Line 665, bot_inventory.sp::GiveNamedItemPost
+L 03/24/2026 - 03:02:14: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:02:14: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:02:14: [SM] Call stack trace:
+L 03/24/2026 - 03:02:14: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:02:14: [SM]   [1] Line 996, bot_inventory.sp::GivePlayerGloves
+L 03/24/2026 - 03:02:14: [SM]   [2] Line 798, bot_inventory.sp::Event_PlayerSpawn
+L 03/24/2026 - 03:02:14: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:02:14: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:02:14: [SM] Call stack trace:
+L 03/24/2026 - 03:02:14: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:02:14: [SM]   [1] Line 908, bot_inventory.sp::SetWeaponProps
+L 03/24/2026 - 03:02:14: [SM]   [2] Line 665, bot_inventory.sp::GiveNamedItemPost
+L 03/24/2026 - 03:02:21: [SM] Exception reported: Cannot set m_iEntityQuality with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:02:21: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:02:21: [SM] Call stack trace:
+L 03/24/2026 - 03:02:21: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:02:21: [SM]   [1] Line 663, bot_inventory.sp::GiveNamedItemPost
+L 03/24/2026 - 03:02:21: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:02:21: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:02:21: [SM] Call stack trace:
+L 03/24/2026 - 03:02:21: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:02:21: [SM]   [1] Line 908, bot_inventory.sp::SetWeaponProps
+L 03/24/2026 - 03:02:21: [SM]   [2] Line 665, bot_inventory.sp::GiveNamedItemPost
+L 03/24/2026 - 03:02:21: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:02:22: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:02:22: [SM] Call stack trace:
+L 03/24/2026 - 03:02:22: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:02:22: [SM]   [1] Line 996, bot_inventory.sp::GivePlayerGloves
+L 03/24/2026 - 03:02:22: [SM]   [2] Line 798, bot_inventory.sp::Event_PlayerSpawn
+L 03/24/2026 - 03:02:22: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:02:22: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:02:22: [SM] Call stack trace:
+L 03/24/2026 - 03:02:22: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:02:22: [SM]   [1] Line 996, bot_inventory.sp::GivePlayerGloves
+L 03/24/2026 - 03:02:22: [SM]   [2] Line 798, bot_inventory.sp::Event_PlayerSpawn
+L 03/24/2026 - 03:02:53: [SM] Exception reported: Cannot set m_iEntityQuality with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:02:53: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:02:53: [SM] Call stack trace:
+L 03/24/2026 - 03:02:53: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:02:53: [SM]   [1] Line 663, bot_inventory.sp::GiveNamedItemPost
+L 03/24/2026 - 03:02:53: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:02:53: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:02:53: [SM] Call stack trace:
+L 03/24/2026 - 03:02:53: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:02:53: [SM]   [1] Line 908, bot_inventory.sp::SetWeaponProps
+L 03/24/2026 - 03:02:53: [SM]   [2] Line 665, bot_inventory.sp::GiveNamedItemPost
+L 03/24/2026 - 03:02:53: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:02:53: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:02:53: [SM] Call stack trace:
+L 03/24/2026 - 03:02:53: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:02:53: [SM]   [1] Line 996, bot_inventory.sp::GivePlayerGloves
+L 03/24/2026 - 03:02:53: [SM]   [2] Line 798, bot_inventory.sp::Event_PlayerSpawn
+L 03/24/2026 - 03:02:53: [SM] Exception reported: Cannot set m_iEntityQuality with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:02:53: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:02:53: [SM] Call stack trace:
+L 03/24/2026 - 03:02:53: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:02:54: [SM]   [1] Line 663, bot_inventory.sp::GiveNamedItemPost
+L 03/24/2026 - 03:02:54: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:02:54: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:02:54: [SM] Call stack trace:
+L 03/24/2026 - 03:02:54: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:02:54: [SM]   [1] Line 908, bot_inventory.sp::SetWeaponProps
+L 03/24/2026 - 03:02:54: [SM]   [2] Line 665, bot_inventory.sp::GiveNamedItemPost
+L 03/24/2026 - 03:02:54: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:02:54: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:02:54: [SM] Call stack trace:
+L 03/24/2026 - 03:02:54: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:02:54: [SM]   [1] Line 996, bot_inventory.sp::GivePlayerGloves
+L 03/24/2026 - 03:02:54: [SM]   [2] Line 798, bot_inventory.sp::Event_PlayerSpawn
+L 03/24/2026 - 03:02:54: [SM] Exception reported: Cannot set m_iEntityQuality with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:02:54: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:02:54: [SM] Call stack trace:
+L 03/24/2026 - 03:02:54: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:02:54: [SM]   [1] Line 663, bot_inventory.sp::GiveNamedItemPost
+L 03/24/2026 - 03:02:54: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:02:54: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:02:54: [SM] Call stack trace:
+L 03/24/2026 - 03:02:54: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:02:54: [SM]   [1] Line 908, bot_inventory.sp::SetWeaponProps
+L 03/24/2026 - 03:02:54: [SM]   [2] Line 665, bot_inventory.sp::GiveNamedItemPost
+L 03/24/2026 - 03:02:54: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:02:54: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:02:54: [SM] Call stack trace:
+L 03/24/2026 - 03:02:54: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:02:54: [SM]   [1] Line 996, bot_inventory.sp::GivePlayerGloves
+L 03/24/2026 - 03:02:54: [SM]   [2] Line 798, bot_inventory.sp::Event_PlayerSpawn
+L 03/24/2026 - 03:02:54: [SM] Exception reported: Cannot set m_iEntityQuality with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:02:54: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:02:54: [SM] Call stack trace:
+L 03/24/2026 - 03:02:54: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:02:54: [SM]   [1] Line 663, bot_inventory.sp::GiveNamedItemPost
+L 03/24/2026 - 03:02:55: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:02:55: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:02:55: [SM] Call stack trace:
+L 03/24/2026 - 03:02:55: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:02:55: [SM]   [1] Line 908, bot_inventory.sp::SetWeaponProps
+L 03/24/2026 - 03:02:55: [SM]   [2] Line 665, bot_inventory.sp::GiveNamedItemPost
+L 03/24/2026 - 03:02:55: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:02:55: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:02:55: [SM] Call stack trace:
+L 03/24/2026 - 03:02:55: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:02:55: [SM]   [1] Line 996, bot_inventory.sp::GivePlayerGloves
+L 03/24/2026 - 03:02:55: [SM]   [2] Line 798, bot_inventory.sp::Event_PlayerSpawn
+L 03/24/2026 - 03:02:55: [SM] Exception reported: Cannot set m_iEntityQuality with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:02:55: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:02:55: [SM] Call stack trace:
+L 03/24/2026 - 03:02:55: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:02:55: [SM]   [1] Line 663, bot_inventory.sp::GiveNamedItemPost
+L 03/24/2026 - 03:02:55: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:02:55: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:02:55: [SM] Call stack trace:
+L 03/24/2026 - 03:02:55: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:02:55: [SM]   [1] Line 908, bot_inventory.sp::SetWeaponProps
+L 03/24/2026 - 03:02:55: [SM]   [2] Line 665, bot_inventory.sp::GiveNamedItemPost
+L 03/24/2026 - 03:02:55: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:02:55: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:02:55: [SM] Call stack trace:
+L 03/24/2026 - 03:02:55: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:02:55: [SM]   [1] Line 996, bot_inventory.sp::GivePlayerGloves
+L 03/24/2026 - 03:02:55: [SM]   [2] Line 798, bot_inventory.sp::Event_PlayerSpawn
+L 03/24/2026 - 03:02:55: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:02:55: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:02:55: [SM] Call stack trace:
+L 03/24/2026 - 03:02:55: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:02:55: [SM]   [1] Line 908, bot_inventory.sp::SetWeaponProps
+L 03/24/2026 - 03:02:55: [SM]   [2] Line 665, bot_inventory.sp::GiveNamedItemPost
+L 03/24/2026 - 03:03:36: [SM] Exception reported: Cannot set m_iEntityQuality with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:03:36: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:03:36: [SM] Call stack trace:
+L 03/24/2026 - 03:03:36: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:03:36: [SM]   [1] Line 663, bot_inventory.sp::GiveNamedItemPost
+L 03/24/2026 - 03:03:36: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:03:36: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:03:36: [SM] Call stack trace:
+L 03/24/2026 - 03:03:36: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:03:36: [SM]   [1] Line 908, bot_inventory.sp::SetWeaponProps
+L 03/24/2026 - 03:03:36: [SM]   [2] Line 665, bot_inventory.sp::GiveNamedItemPost
+L 03/24/2026 - 03:03:36: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:03:36: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:03:36: [SM] Call stack trace:
+L 03/24/2026 - 03:03:36: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:03:36: [SM]   [1] Line 996, bot_inventory.sp::GivePlayerGloves
+L 03/24/2026 - 03:03:36: [SM]   [2] Line 798, bot_inventory.sp::Event_PlayerSpawn
+L 03/24/2026 - 03:03:36: [SM] Exception reported: Cannot set m_iEntityQuality with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:03:37: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:03:37: [SM] Call stack trace:
+L 03/24/2026 - 03:03:37: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:03:37: [SM]   [1] Line 663, bot_inventory.sp::GiveNamedItemPost
+L 03/24/2026 - 03:03:37: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:03:37: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:03:37: [SM] Call stack trace:
+L 03/24/2026 - 03:03:37: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:03:37: [SM]   [1] Line 908, bot_inventory.sp::SetWeaponProps
+L 03/24/2026 - 03:03:37: [SM]   [2] Line 665, bot_inventory.sp::GiveNamedItemPost
+L 03/24/2026 - 03:03:37: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:03:37: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:03:37: [SM] Call stack trace:
+L 03/24/2026 - 03:03:37: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:03:37: [SM]   [1] Line 996, bot_inventory.sp::GivePlayerGloves
+L 03/24/2026 - 03:03:37: [SM]   [2] Line 798, bot_inventory.sp::Event_PlayerSpawn
+L 03/24/2026 - 03:03:37: [SM] Exception reported: Cannot set m_iEntityQuality with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:03:37: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:03:37: [SM] Call stack trace:
+L 03/24/2026 - 03:03:37: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:03:37: [SM]   [1] Line 663, bot_inventory.sp::GiveNamedItemPost
+L 03/24/2026 - 03:03:37: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:03:37: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:03:37: [SM] Call stack trace:
+L 03/24/2026 - 03:03:37: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:03:37: [SM]   [1] Line 908, bot_inventory.sp::SetWeaponProps
+L 03/24/2026 - 03:03:37: [SM]   [2] Line 665, bot_inventory.sp::GiveNamedItemPost
+L 03/24/2026 - 03:03:37: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:03:37: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:03:37: [SM] Call stack trace:
+L 03/24/2026 - 03:03:37: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:03:37: [SM]   [1] Line 996, bot_inventory.sp::GivePlayerGloves
+L 03/24/2026 - 03:03:37: [SM]   [2] Line 798, bot_inventory.sp::Event_PlayerSpawn
+L 03/24/2026 - 03:03:37: [SM] Exception reported: Cannot set m_iEntityQuality with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:03:37: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:03:37: [SM] Call stack trace:
+L 03/24/2026 - 03:03:38: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:03:38: [SM]   [1] Line 663, bot_inventory.sp::GiveNamedItemPost
+L 03/24/2026 - 03:03:38: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:03:38: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:03:38: [SM] Call stack trace:
+L 03/24/2026 - 03:03:38: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:03:38: [SM]   [1] Line 908, bot_inventory.sp::SetWeaponProps
+L 03/24/2026 - 03:03:38: [SM]   [2] Line 665, bot_inventory.sp::GiveNamedItemPost
+L 03/24/2026 - 03:03:38: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:03:38: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:03:38: [SM] Call stack trace:
+L 03/24/2026 - 03:03:38: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:03:38: [SM]   [1] Line 996, bot_inventory.sp::GivePlayerGloves
+L 03/24/2026 - 03:03:38: [SM]   [2] Line 798, bot_inventory.sp::Event_PlayerSpawn
+L 03/24/2026 - 03:03:38: [SM] Exception reported: Cannot set m_iEntityQuality with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:03:38: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:03:38: [SM] Call stack trace:
+L 03/24/2026 - 03:03:38: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:03:38: [SM]   [1] Line 663, bot_inventory.sp::GiveNamedItemPost
+L 03/24/2026 - 03:03:38: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:03:38: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:03:38: [SM] Call stack trace:
+L 03/24/2026 - 03:03:38: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:03:38: [SM]   [1] Line 908, bot_inventory.sp::SetWeaponProps
+L 03/24/2026 - 03:03:38: [SM]   [2] Line 665, bot_inventory.sp::GiveNamedItemPost
+L 03/24/2026 - 03:03:38: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:03:38: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:03:38: [SM] Call stack trace:
+L 03/24/2026 - 03:03:38: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:03:38: [SM]   [1] Line 996, bot_inventory.sp::GivePlayerGloves
+L 03/24/2026 - 03:03:38: [SM]   [2] Line 798, bot_inventory.sp::Event_PlayerSpawn
+L 03/24/2026 - 03:03:38: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:03:38: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:03:38: [SM] Call stack trace:
+L 03/24/2026 - 03:03:38: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:03:39: [SM]   [1] Line 908, bot_inventory.sp::SetWeaponProps
+L 03/24/2026 - 03:03:39: [SM]   [2] Line 665, bot_inventory.sp::GiveNamedItemPost
+L 03/24/2026 - 03:04:24: [SM] Exception reported: Cannot set m_iEntityQuality with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:04:24: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:04:24: [SM] Call stack trace:
+L 03/24/2026 - 03:04:24: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:04:24: [SM]   [1] Line 663, bot_inventory.sp::GiveNamedItemPost
+L 03/24/2026 - 03:04:24: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:04:24: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:04:24: [SM] Call stack trace:
+L 03/24/2026 - 03:04:24: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:04:24: [SM]   [1] Line 908, bot_inventory.sp::SetWeaponProps
+L 03/24/2026 - 03:04:24: [SM]   [2] Line 665, bot_inventory.sp::GiveNamedItemPost
+L 03/24/2026 - 03:04:24: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:04:24: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:04:24: [SM] Call stack trace:
+L 03/24/2026 - 03:04:24: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:04:24: [SM]   [1] Line 996, bot_inventory.sp::GivePlayerGloves
+L 03/24/2026 - 03:04:24: [SM]   [2] Line 798, bot_inventory.sp::Event_PlayerSpawn
+L 03/24/2026 - 03:04:24: [SM] Exception reported: Cannot set m_iEntityQuality with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:04:24: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:04:24: [SM] Call stack trace:
+L 03/24/2026 - 03:04:24: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:04:24: [SM]   [1] Line 663, bot_inventory.sp::GiveNamedItemPost
+L 03/24/2026 - 03:04:24: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:04:24: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:04:24: [SM] Call stack trace:
+L 03/24/2026 - 03:04:25: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:04:25: [SM]   [1] Line 908, bot_inventory.sp::SetWeaponProps
+L 03/24/2026 - 03:04:25: [SM]   [2] Line 665, bot_inventory.sp::GiveNamedItemPost
+L 03/24/2026 - 03:04:25: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:04:25: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:04:25: [SM] Call stack trace:
+L 03/24/2026 - 03:04:25: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:04:25: [SM]   [1] Line 996, bot_inventory.sp::GivePlayerGloves
+L 03/24/2026 - 03:04:25: [SM]   [2] Line 798, bot_inventory.sp::Event_PlayerSpawn
+L 03/24/2026 - 03:04:25: [SM] Exception reported: Cannot set m_iEntityQuality with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:04:25: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:04:25: [SM] Call stack trace:
+L 03/24/2026 - 03:04:25: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:04:25: [SM]   [1] Line 663, bot_inventory.sp::GiveNamedItemPost
+L 03/24/2026 - 03:04:25: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:04:25: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:04:25: [SM] Call stack trace:
+L 03/24/2026 - 03:04:25: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:04:25: [SM]   [1] Line 908, bot_inventory.sp::SetWeaponProps
+L 03/24/2026 - 03:04:25: [SM]   [2] Line 665, bot_inventory.sp::GiveNamedItemPost
+L 03/24/2026 - 03:04:25: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:04:25: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:04:25: [SM] Call stack trace:
+L 03/24/2026 - 03:04:25: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:04:25: [SM]   [1] Line 996, bot_inventory.sp::GivePlayerGloves
+L 03/24/2026 - 03:04:25: [SM]   [2] Line 798, bot_inventory.sp::Event_PlayerSpawn
+L 03/24/2026 - 03:04:25: [SM] Exception reported: Cannot set m_iEntityQuality with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:04:25: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:04:25: [SM] Call stack trace:
+L 03/24/2026 - 03:04:25: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:04:25: [SM]   [1] Line 663, bot_inventory.sp::GiveNamedItemPost
+L 03/24/2026 - 03:04:25: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:04:25: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:04:25: [SM] Call stack trace:
+L 03/24/2026 - 03:04:25: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:04:26: [SM]   [1] Line 908, bot_inventory.sp::SetWeaponProps
+L 03/24/2026 - 03:04:26: [SM]   [2] Line 665, bot_inventory.sp::GiveNamedItemPost
+L 03/24/2026 - 03:04:26: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:04:26: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:04:26: [SM] Call stack trace:
+L 03/24/2026 - 03:04:26: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:04:26: [SM]   [1] Line 996, bot_inventory.sp::GivePlayerGloves
+L 03/24/2026 - 03:04:26: [SM]   [2] Line 798, bot_inventory.sp::Event_PlayerSpawn
+L 03/24/2026 - 03:04:26: [SM] Exception reported: Cannot set m_iEntityQuality with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:04:26: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:04:26: [SM] Call stack trace:
+L 03/24/2026 - 03:04:26: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:04:26: [SM]   [1] Line 663, bot_inventory.sp::GiveNamedItemPost
+L 03/24/2026 - 03:04:26: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:04:26: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:04:26: [SM] Call stack trace:
+L 03/24/2026 - 03:04:26: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:04:26: [SM]   [1] Line 908, bot_inventory.sp::SetWeaponProps
+L 03/24/2026 - 03:04:26: [SM]   [2] Line 665, bot_inventory.sp::GiveNamedItemPost
+L 03/24/2026 - 03:04:26: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:04:26: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:04:26: [SM] Call stack trace:
+L 03/24/2026 - 03:04:26: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:04:26: [SM]   [1] Line 996, bot_inventory.sp::GivePlayerGloves
+L 03/24/2026 - 03:04:26: [SM]   [2] Line 798, bot_inventory.sp::Event_PlayerSpawn
+L 03/24/2026 - 03:04:26: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:04:26: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:04:26: [SM] Call stack trace:
+L 03/24/2026 - 03:04:26: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:04:26: [SM]   [1] Line 908, bot_inventory.sp::SetWeaponProps
+L 03/24/2026 - 03:04:26: [SM]   [2] Line 665, bot_inventory.sp::GiveNamedItemPost
+L 03/24/2026 - 03:05:04: [SM] Exception reported: Cannot set m_iEntityQuality with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:05:04: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:05:04: [SM] Call stack trace:
+L 03/24/2026 - 03:05:04: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:05:04: [SM]   [1] Line 663, bot_inventory.sp::GiveNamedItemPost
+L 03/24/2026 - 03:05:04: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:05:04: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:05:04: [SM] Call stack trace:
+L 03/24/2026 - 03:05:04: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:05:04: [SM]   [1] Line 908, bot_inventory.sp::SetWeaponProps
+L 03/24/2026 - 03:05:04: [SM]   [2] Line 665, bot_inventory.sp::GiveNamedItemPost
+L 03/24/2026 - 03:05:04: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:05:04: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:05:04: [SM] Call stack trace:
+L 03/24/2026 - 03:05:05: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:05:05: [SM]   [1] Line 996, bot_inventory.sp::GivePlayerGloves
+L 03/24/2026 - 03:05:05: [SM]   [2] Line 798, bot_inventory.sp::Event_PlayerSpawn
+L 03/24/2026 - 03:05:05: [SM] Exception reported: Cannot set m_iEntityQuality with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:05:05: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:05:05: [SM] Call stack trace:
+L 03/24/2026 - 03:05:05: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:05:05: [SM]   [1] Line 663, bot_inventory.sp::GiveNamedItemPost
+L 03/24/2026 - 03:05:05: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:05:05: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:05:05: [SM] Call stack trace:
+L 03/24/2026 - 03:05:05: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:05:05: [SM]   [1] Line 908, bot_inventory.sp::SetWeaponProps
+L 03/24/2026 - 03:05:05: [SM]   [2] Line 665, bot_inventory.sp::GiveNamedItemPost
+L 03/24/2026 - 03:05:05: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:05:05: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:05:05: [SM] Call stack trace:
+L 03/24/2026 - 03:05:05: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:05:05: [SM]   [1] Line 996, bot_inventory.sp::GivePlayerGloves
+L 03/24/2026 - 03:05:05: [SM]   [2] Line 798, bot_inventory.sp::Event_PlayerSpawn
+L 03/24/2026 - 03:05:05: [SM] Exception reported: Cannot set m_iEntityQuality with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:05:05: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:05:05: [SM] Call stack trace:
+L 03/24/2026 - 03:05:05: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:05:05: [SM]   [1] Line 663, bot_inventory.sp::GiveNamedItemPost
+L 03/24/2026 - 03:05:05: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:05:05: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:05:05: [SM] Call stack trace:
+L 03/24/2026 - 03:05:05: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:05:06: [SM]   [1] Line 908, bot_inventory.sp::SetWeaponProps
+L 03/24/2026 - 03:05:06: [SM]   [2] Line 665, bot_inventory.sp::GiveNamedItemPost
+L 03/24/2026 - 03:05:06: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:05:06: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:05:06: [SM] Call stack trace:
+L 03/24/2026 - 03:05:06: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:05:06: [SM]   [1] Line 996, bot_inventory.sp::GivePlayerGloves
+L 03/24/2026 - 03:05:06: [SM]   [2] Line 798, bot_inventory.sp::Event_PlayerSpawn
+L 03/24/2026 - 03:05:06: [SM] Exception reported: Cannot set m_iEntityQuality with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:05:06: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:05:06: [SM] Call stack trace:
+L 03/24/2026 - 03:05:06: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:05:06: [SM]   [1] Line 663, bot_inventory.sp::GiveNamedItemPost
+L 03/24/2026 - 03:05:06: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:05:06: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:05:06: [SM] Call stack trace:
+L 03/24/2026 - 03:05:06: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:05:06: [SM]   [1] Line 908, bot_inventory.sp::SetWeaponProps
+L 03/24/2026 - 03:05:06: [SM]   [2] Line 665, bot_inventory.sp::GiveNamedItemPost
+L 03/24/2026 - 03:05:06: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:05:06: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:05:06: [SM] Call stack trace:
+L 03/24/2026 - 03:05:06: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:05:06: [SM]   [1] Line 996, bot_inventory.sp::GivePlayerGloves
+L 03/24/2026 - 03:05:06: [SM]   [2] Line 798, bot_inventory.sp::Event_PlayerSpawn
+L 03/24/2026 - 03:05:06: [SM] Exception reported: Cannot set m_iEntityQuality with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:05:06: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:05:06: [SM] Call stack trace:
+L 03/24/2026 - 03:05:06: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:05:07: [SM]   [1] Line 663, bot_inventory.sp::GiveNamedItemPost
+L 03/24/2026 - 03:05:07: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:05:07: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:05:07: [SM] Call stack trace:
+L 03/24/2026 - 03:05:07: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:05:07: [SM]   [1] Line 908, bot_inventory.sp::SetWeaponProps
+L 03/24/2026 - 03:05:07: [SM]   [2] Line 665, bot_inventory.sp::GiveNamedItemPost
+L 03/24/2026 - 03:05:07: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:05:07: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:05:07: [SM] Call stack trace:
+L 03/24/2026 - 03:05:07: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:05:07: [SM]   [1] Line 996, bot_inventory.sp::GivePlayerGloves
+L 03/24/2026 - 03:05:07: [SM]   [2] Line 798, bot_inventory.sp::Event_PlayerSpawn
+L 03/24/2026 - 03:05:07: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 03/24/2026 - 03:05:07: [SM] Blaming: bot_inventory.smx
+L 03/24/2026 - 03:05:07: [SM] Call stack trace:
+L 03/24/2026 - 03:05:07: [SM]   [0] SetEntProp
+L 03/24/2026 - 03:05:07: [SM]   [1] Line 908, bot_inventory.sp::SetWeaponProps
+L 03/24/2026 - 03:05:07: [SM]   [2] Line 665, bot_inventory.sp::GiveNamedItemPost
+L 03/24/2026 - 03:09:32: SourceMod error session started
+L 03/24/2026 - 03:09:32: Info (map "de_dust2") (file "c:\games\csgo_server\csgo\addons\sourcemod\logs\errors_20260324.log")
+L 03/24/2026 - 03:09:32: [SM] Exception reported: [SQLMatch] Database connection failed: [2003]: Can't connect to MySQL server on 'localhost' (10061)
+L 03/24/2026 - 03:09:32: [SM] Blaming: sqlmatch.smx
+L 03/24/2026 - 03:09:32: [SM] Call stack trace:
+L 03/24/2026 - 03:09:32: [SM]   [0] SetFailState
+L 03/24/2026 - 03:09:32: [SM]   [1] Line 53, sqlmatch.sp::ConnectDatabase
+L 03/24/2026 - 03:09:32: [SM]   [2] Line 26, sqlmatch.sp::OnPluginStart
+L 03/24/2026 - 03:09:32: [SM] Unable to load plugin "sqlmatch.smx": Error detected in plugin startup (see error logs)
+L 03/24/2026 - 03:09:36: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 03/24/2026 - 03:09:36: [SM] Exception reported: Mapcycle Not Found
+L 03/24/2026 - 03:09:36: [SM] Blaming: nextmap.smx
+L 03/24/2026 - 03:09:36: [SM] Call stack trace:
+L 03/24/2026 - 03:09:36: [SM]   [0] SetFailState
+L 03/24/2026 - 03:09:36: [SM]   [1] Line 153, D:\builds\build-sourcemod-msvc12\windows-1.13\build\plugins\nextmap.sp::FindAndSetNextMap
+L 03/24/2026 - 03:09:36: [SM]   [2] Line 115, D:\builds\build-sourcemod-msvc12\windows-1.13\build\plugins\nextmap.sp::OnConfigsExecuted
+L 03/24/2026 - 03:11:37: SourceMod error session started
+L 03/24/2026 - 03:11:37: Info (map "de_dust2") (file "c:\games\csgo_server\csgo\addons\sourcemod\logs\errors_20260324.log")
+L 03/24/2026 - 03:11:37: [SM] Exception reported: [SQLMatch] Database connection failed: [2003]: Can't connect to MySQL server on 'localhost' (10061)
+L 03/24/2026 - 03:11:37: [SM] Blaming: sqlmatch.smx
+L 03/24/2026 - 03:11:37: [SM] Call stack trace:
+L 03/24/2026 - 03:11:37: [SM]   [0] SetFailState
+L 03/24/2026 - 03:11:37: [SM]   [1] Line 53, sqlmatch.sp::ConnectDatabase
+L 03/24/2026 - 03:11:37: [SM]   [2] Line 26, sqlmatch.sp::OnPluginStart
+L 03/24/2026 - 03:11:37: [SM] Unable to load plugin "sqlmatch.smx": Error detected in plugin startup (see error logs)
+L 03/24/2026 - 03:15:53: SourceMod error session started
+L 03/24/2026 - 03:15:53: Info (map "de_dust2") (file "c:\games\csgo_server\csgo\addons\sourcemod\logs\errors_20260324.log")
+L 03/24/2026 - 03:15:53: [SM] Exception reported: [SQLMatch] Database connection failed: [2003]: Can't connect to MySQL server on 'localhost' (10061)
+L 03/24/2026 - 03:15:53: [SM] Blaming: sqlmatch.smx
+L 03/24/2026 - 03:15:53: [SM] Call stack trace:
+L 03/24/2026 - 03:15:53: [SM]   [0] SetFailState
+L 03/24/2026 - 03:15:53: [SM]   [1] Line 53, sqlmatch.sp::ConnectDatabase
+L 03/24/2026 - 03:15:53: [SM]   [2] Line 26, sqlmatch.sp::OnPluginStart
+L 03/24/2026 - 03:15:53: [SM] Unable to load plugin "sqlmatch.smx": Error detected in plugin startup (see error logs)
+L 03/24/2026 - 03:19:06: SourceMod error session started
+L 03/24/2026 - 03:19:06: Info (map "de_dust2") (file "c:\games\csgo_server\csgo\addons\sourcemod\logs\errors_20260324.log")
+L 03/24/2026 - 03:19:06: [SM] Exception reported: [SQLMatch] Database connection failed: [2003]: Can't connect to MySQL server on 'localhost' (10061)
+L 03/24/2026 - 03:19:06: [SM] Blaming: sqlmatch.smx
+L 03/24/2026 - 03:19:06: [SM] Call stack trace:
+L 03/24/2026 - 03:19:06: [SM]   [0] SetFailState
+L 03/24/2026 - 03:19:06: [SM]   [1] Line 53, sqlmatch.sp::ConnectDatabase
+L 03/24/2026 - 03:19:06: [SM]   [2] Line 26, sqlmatch.sp::OnPluginStart
+L 03/24/2026 - 03:19:06: [SM] Unable to load plugin "sqlmatch.smx": Error detected in plugin startup (see error logs)
+L 03/24/2026 - 19:51:00: SourceMod error session started
+L 03/24/2026 - 19:51:00: Info (map "de_dust2") (file "c:\games\csgo_server\csgo\addons\sourcemod\logs\errors_20260324.log")
+L 03/24/2026 - 19:51:00: [SM] Exception reported: [SQLMatch] Database connection failed: [2003]: Can't connect to MySQL server on 'localhost' (10061)
+L 03/24/2026 - 19:51:00: [SM] Blaming: sqlmatch.smx
+L 03/24/2026 - 19:51:00: [SM] Call stack trace:
+L 03/24/2026 - 19:51:00: [SM]   [0] SetFailState
+L 03/24/2026 - 19:51:00: [SM]   [1] Line 53, sqlmatch.sp::ConnectDatabase
+L 03/24/2026 - 19:51:00: [SM]   [2] Line 26, sqlmatch.sp::OnPluginStart
+L 03/24/2026 - 19:51:00: [SM] Unable to load plugin "sqlmatch.smx": Error detected in plugin startup (see error logs)
+L 03/24/2026 - 19:53:06: SourceMod error session started
+L 03/24/2026 - 19:53:06: Info (map "de_dust2") (file "c:\games\csgo_server\csgo\addons\sourcemod\logs\errors_20260324.log")
+L 03/24/2026 - 19:53:06: [SM] Exception reported: [SQLMatch] Database connection failed: [2003]: Can't connect to MySQL server on 'localhost' (10061)
+L 03/24/2026 - 19:53:06: [SM] Blaming: sqlmatch.smx
+L 03/24/2026 - 19:53:06: [SM] Call stack trace:
+L 03/24/2026 - 19:53:06: [SM]   [0] SetFailState
+L 03/24/2026 - 19:53:06: [SM]   [1] Line 53, sqlmatch.sp::ConnectDatabase
+L 03/24/2026 - 19:53:06: [SM]   [2] Line 26, sqlmatch.sp::OnPluginStart
+L 03/24/2026 - 19:53:06: [SM] Unable to load plugin "sqlmatch.smx": Error detected in plugin startup (see error logs)
+L 03/24/2026 - 20:25:09: SourceMod error session started
+L 03/24/2026 - 20:25:09: Info (map "de_dust2") (file "c:\games\csgo_server\csgo\addons\sourcemod\logs\errors_20260324.log")
+L 03/24/2026 - 20:25:09: [SM] Exception reported: [SQLMatch] Database connection failed: [2003]: Can't connect to MySQL server on 'localhost' (10061)
+L 03/24/2026 - 20:25:09: [SM] Blaming: sqlmatch.smx
+L 03/24/2026 - 20:25:09: [SM] Call stack trace:
+L 03/24/2026 - 20:25:09: [SM]   [0] SetFailState
+L 03/24/2026 - 20:25:09: [SM]   [1] Line 53, sqlmatch.sp::ConnectDatabase
+L 03/24/2026 - 20:25:09: [SM]   [2] Line 26, sqlmatch.sp::OnPluginStart
+L 03/24/2026 - 20:25:09: [SM] Unable to load plugin "sqlmatch.smx": Error detected in plugin startup (see error logs)
+L 03/24/2026 - 20:32:36: SourceMod error session started
+L 03/24/2026 - 20:32:36: Info (map "de_dust2") (file "c:\games\csgo_server\csgo\addons\sourcemod\logs\errors_20260324.log")
+L 03/24/2026 - 20:32:36: [SM] Exception reported: [SQLMatch] Database connection failed: [2003]: Can't connect to MySQL server on 'localhost' (10061)
+L 03/24/2026 - 20:32:36: [SM] Blaming: sqlmatch.smx
+L 03/24/2026 - 20:32:36: [SM] Call stack trace:
+L 03/24/2026 - 20:32:36: [SM]   [0] SetFailState
+L 03/24/2026 - 20:32:36: [SM]   [1] Line 53, sqlmatch.sp::ConnectDatabase
+L 03/24/2026 - 20:32:36: [SM]   [2] Line 26, sqlmatch.sp::OnPluginStart
+L 03/24/2026 - 20:32:36: [SM] Unable to load plugin "sqlmatch.smx": Error detected in plugin startup (see error logs)

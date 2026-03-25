@@ -1,0 +1,169 @@
+L 03/24/2026 - 02:54:10: SourceMod log file session started (file "c:\games\csgo_server\csgo\addons\sourcemod\logs\L20260324.log") (Version "1.13.0.7301")
+L 03/24/2026 - 02:54:10: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (c:\games\csgo_server\csgo\addons\sourcemod\configs\geoip\GeoLite2-City.mmdb)
+L 03/24/2026 - 02:54:10: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 03/24/2026 - 02:54:10: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 03/24/2026 - 02:54:21: [navmesh.smx] Found .NAV file in maps\de_dust2.nav
+L 03/24/2026 - 02:54:21: [navmesh.smx] Is mesh analyzed: 1
+L 03/24/2026 - 02:54:21: [navmesh.smx] Nav version: 16; SubVersion: 1 (v10+); BSPSize: 326269520; MagicNumber: -17958194
+L 03/24/2026 - 02:54:21: [navmesh.smx] Place count: 26
+L 03/24/2026 - 02:54:21: [navmesh.smx] Has unnamed areas: true
+L 03/24/2026 - 02:54:21: [navmesh.smx] Area count: 716
+L 03/24/2026 - 02:54:21: [navmesh.smx] Parsed 716 areas in 0.051975 seconds.
+L 03/24/2026 - 02:54:21: [navmesh.smx] Ladder count: 0
+L 03/24/2026 - 02:54:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_eco_limit") (value "0")
+L 03/24/2026 - 02:54:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_chatter_use_rr") (value "0")
+L 03/24/2026 - 02:54:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_controllable") (value "0")
+L 03/24/2026 - 02:55:32: SourceMod log file session started (file "c:\games\csgo_server\csgo\addons\sourcemod\logs\L20260324.log") (Version "1.13.0.7301")
+L 03/24/2026 - 02:55:32: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (c:\games\csgo_server\csgo\addons\sourcemod\configs\geoip\GeoLite2-City.mmdb)
+L 03/24/2026 - 02:55:32: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 03/24/2026 - 02:55:33: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 03/24/2026 - 02:55:43: [navmesh.smx] Found .NAV file in maps\de_dust2.nav
+L 03/24/2026 - 02:55:43: [navmesh.smx] Is mesh analyzed: 1
+L 03/24/2026 - 02:55:43: [navmesh.smx] Nav version: 16; SubVersion: 1 (v10+); BSPSize: 326269520; MagicNumber: -17958194
+L 03/24/2026 - 02:55:43: [navmesh.smx] Place count: 26
+L 03/24/2026 - 02:55:43: [navmesh.smx] Has unnamed areas: true
+L 03/24/2026 - 02:55:43: [navmesh.smx] Area count: 716
+L 03/24/2026 - 02:55:43: [navmesh.smx] Parsed 716 areas in 0.021863 seconds.
+L 03/24/2026 - 02:55:43: [navmesh.smx] Ladder count: 0
+L 03/24/2026 - 02:55:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_eco_limit") (value "0")
+L 03/24/2026 - 02:55:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_chatter_use_rr") (value "0")
+L 03/24/2026 - 02:55:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_controllable") (value "0")
+L 03/24/2026 - 02:57:56: SourceMod log file session started (file "c:\games\csgo_server\csgo\addons\sourcemod\logs\L20260324.log") (Version "1.13.0.7301")
+L 03/24/2026 - 02:57:56: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (c:\games\csgo_server\csgo\addons\sourcemod\configs\geoip\GeoLite2-City.mmdb)
+L 03/24/2026 - 02:57:56: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 03/24/2026 - 02:57:56: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 03/24/2026 - 02:58:59: SourceMod log file session started (file "c:\games\csgo_server\csgo\addons\sourcemod\logs\L20260324.log") (Version "1.13.0.7301")
+L 03/24/2026 - 02:58:59: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (c:\games\csgo_server\csgo\addons\sourcemod\configs\geoip\GeoLite2-City.mmdb)
+L 03/24/2026 - 02:58:59: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 03/24/2026 - 02:58:59: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 03/24/2026 - 02:59:09: [navmesh.smx] Found .NAV file in maps\de_dust2.nav
+L 03/24/2026 - 02:59:09: [navmesh.smx] Is mesh analyzed: 1
+L 03/24/2026 - 02:59:09: [navmesh.smx] Nav version: 16; SubVersion: 1 (v10+); BSPSize: 326269520; MagicNumber: -17958194
+L 03/24/2026 - 02:59:09: [navmesh.smx] Place count: 26
+L 03/24/2026 - 02:59:09: [navmesh.smx] Has unnamed areas: true
+L 03/24/2026 - 02:59:09: [navmesh.smx] Area count: 716
+L 03/24/2026 - 02:59:09: [navmesh.smx] Parsed 716 areas in 0.026831 seconds.
+L 03/24/2026 - 02:59:09: [navmesh.smx] Ladder count: 0
+L 03/24/2026 - 02:59:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_eco_limit") (value "0")
+L 03/24/2026 - 02:59:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_chatter_use_rr") (value "0")
+L 03/24/2026 - 02:59:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_controllable") (value "0")
+L 03/24/2026 - 03:09:25: SourceMod log file session started (file "c:\games\csgo_server\csgo\addons\sourcemod\logs\L20260324.log") (Version "1.13.0.7301")
+L 03/24/2026 - 03:09:25: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (c:\games\csgo_server\csgo\addons\sourcemod\configs\geoip\GeoLite2-City.mmdb)
+L 03/24/2026 - 03:09:25: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 03/24/2026 - 03:09:25: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 03/24/2026 - 03:09:35: [navmesh.smx] Found .NAV file in maps\de_dust2.nav
+L 03/24/2026 - 03:09:35: [navmesh.smx] Is mesh analyzed: 1
+L 03/24/2026 - 03:09:35: [navmesh.smx] Nav version: 16; SubVersion: 1 (v10+); BSPSize: 326269520; MagicNumber: -17958194
+L 03/24/2026 - 03:09:35: [navmesh.smx] Place count: 26
+L 03/24/2026 - 03:09:35: [navmesh.smx] Has unnamed areas: true
+L 03/24/2026 - 03:09:35: [navmesh.smx] Area count: 716
+L 03/24/2026 - 03:09:35: [navmesh.smx] Parsed 716 areas in 0.021156 seconds.
+L 03/24/2026 - 03:09:35: [navmesh.smx] Ladder count: 0
+L 03/24/2026 - 03:09:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_eco_limit") (value "0")
+L 03/24/2026 - 03:09:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_chatter_use_rr") (value "0")
+L 03/24/2026 - 03:09:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_controllable") (value "0")
+L 03/24/2026 - 03:11:31: SourceMod log file session started (file "c:\games\csgo_server\csgo\addons\sourcemod\logs\L20260324.log") (Version "1.13.0.7301")
+L 03/24/2026 - 03:11:31: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (c:\games\csgo_server\csgo\addons\sourcemod\configs\geoip\GeoLite2-City.mmdb)
+L 03/24/2026 - 03:11:31: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 03/24/2026 - 03:11:31: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 03/24/2026 - 03:11:42: [navmesh.smx] Found .NAV file in maps\de_dust2.nav
+L 03/24/2026 - 03:11:42: [navmesh.smx] Is mesh analyzed: 1
+L 03/24/2026 - 03:11:42: [navmesh.smx] Nav version: 16; SubVersion: 1 (v10+); BSPSize: 326269520; MagicNumber: -17958194
+L 03/24/2026 - 03:11:42: [navmesh.smx] Place count: 26
+L 03/24/2026 - 03:11:42: [navmesh.smx] Has unnamed areas: true
+L 03/24/2026 - 03:11:42: [navmesh.smx] Area count: 716
+L 03/24/2026 - 03:11:42: [navmesh.smx] Parsed 716 areas in 0.026858 seconds.
+L 03/24/2026 - 03:11:42: [navmesh.smx] Ladder count: 0
+L 03/24/2026 - 03:11:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_eco_limit") (value "0")
+L 03/24/2026 - 03:11:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_chatter_use_rr") (value "0")
+L 03/24/2026 - 03:11:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_controllable") (value "0")
+L 03/24/2026 - 03:15:46: SourceMod log file session started (file "c:\games\csgo_server\csgo\addons\sourcemod\logs\L20260324.log") (Version "1.13.0.7301")
+L 03/24/2026 - 03:15:46: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (c:\games\csgo_server\csgo\addons\sourcemod\configs\geoip\GeoLite2-City.mmdb)
+L 03/24/2026 - 03:15:46: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 03/24/2026 - 03:15:46: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 03/24/2026 - 03:15:58: [navmesh.smx] Found .NAV file in maps\de_dust2.nav
+L 03/24/2026 - 03:15:58: [navmesh.smx] Is mesh analyzed: 1
+L 03/24/2026 - 03:15:58: [navmesh.smx] Nav version: 16; SubVersion: 1 (v10+); BSPSize: 326269520; MagicNumber: -17958194
+L 03/24/2026 - 03:15:58: [navmesh.smx] Place count: 26
+L 03/24/2026 - 03:15:58: [navmesh.smx] Has unnamed areas: true
+L 03/24/2026 - 03:15:58: [navmesh.smx] Area count: 716
+L 03/24/2026 - 03:15:58: [navmesh.smx] Parsed 716 areas in 0.034232 seconds.
+L 03/24/2026 - 03:15:58: [navmesh.smx] Ladder count: 0
+L 03/24/2026 - 03:15:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_eco_limit") (value "0")
+L 03/24/2026 - 03:15:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_chatter_use_rr") (value "0")
+L 03/24/2026 - 03:15:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_controllable") (value "0")
+L 03/24/2026 - 03:18:59: SourceMod log file session started (file "c:\games\csgo_server\csgo\addons\sourcemod\logs\L20260324.log") (Version "1.13.0.7301")
+L 03/24/2026 - 03:18:59: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (c:\games\csgo_server\csgo\addons\sourcemod\configs\geoip\GeoLite2-City.mmdb)
+L 03/24/2026 - 03:18:59: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 03/24/2026 - 03:18:59: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 03/24/2026 - 03:19:10: [navmesh.smx] Found .NAV file in maps\de_dust2.nav
+L 03/24/2026 - 03:19:10: [navmesh.smx] Is mesh analyzed: 1
+L 03/24/2026 - 03:19:10: [navmesh.smx] Nav version: 16; SubVersion: 1 (v10+); BSPSize: 326269520; MagicNumber: -17958194
+L 03/24/2026 - 03:19:10: [navmesh.smx] Place count: 26
+L 03/24/2026 - 03:19:10: [navmesh.smx] Has unnamed areas: true
+L 03/24/2026 - 03:19:10: [navmesh.smx] Area count: 716
+L 03/24/2026 - 03:19:11: [navmesh.smx] Parsed 716 areas in 0.026427 seconds.
+L 03/24/2026 - 03:19:11: [navmesh.smx] Ladder count: 0
+L 03/24/2026 - 03:19:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_eco_limit") (value "0")
+L 03/24/2026 - 03:19:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_chatter_use_rr") (value "0")
+L 03/24/2026 - 03:19:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_controllable") (value "0")
+L 03/24/2026 - 19:50:53: SourceMod log file session started (file "c:\games\csgo_server\csgo\addons\sourcemod\logs\L20260324.log") (Version "1.13.0.7301")
+L 03/24/2026 - 19:50:53: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (c:\games\csgo_server\csgo\addons\sourcemod\configs\geoip\GeoLite2-City.mmdb)
+L 03/24/2026 - 19:50:53: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 03/24/2026 - 19:50:53: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 03/24/2026 - 19:51:04: [navmesh.smx] Found .NAV file in maps\de_dust2.nav
+L 03/24/2026 - 19:51:04: [navmesh.smx] Is mesh analyzed: 1
+L 03/24/2026 - 19:51:04: [navmesh.smx] Nav version: 16; SubVersion: 1 (v10+); BSPSize: 326269520; MagicNumber: -17958194
+L 03/24/2026 - 19:51:04: [navmesh.smx] Place count: 26
+L 03/24/2026 - 19:51:04: [navmesh.smx] Has unnamed areas: true
+L 03/24/2026 - 19:51:04: [navmesh.smx] Area count: 716
+L 03/24/2026 - 19:51:04: [navmesh.smx] Parsed 716 areas in 0.009806 seconds.
+L 03/24/2026 - 19:51:04: [navmesh.smx] Ladder count: 0
+L 03/24/2026 - 19:51:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_eco_limit") (value "0")
+L 03/24/2026 - 19:51:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_chatter_use_rr") (value "0")
+L 03/24/2026 - 19:51:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_controllable") (value "0")
+L 03/24/2026 - 19:53:00: SourceMod log file session started (file "c:\games\csgo_server\csgo\addons\sourcemod\logs\L20260324.log") (Version "1.13.0.7301")
+L 03/24/2026 - 19:53:00: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (c:\games\csgo_server\csgo\addons\sourcemod\configs\geoip\GeoLite2-City.mmdb)
+L 03/24/2026 - 19:53:00: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 03/24/2026 - 19:53:00: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 03/24/2026 - 19:53:09: [navmesh.smx] Found .NAV file in maps\de_dust2.nav
+L 03/24/2026 - 19:53:09: [navmesh.smx] Is mesh analyzed: 1
+L 03/24/2026 - 19:53:09: [navmesh.smx] Nav version: 16; SubVersion: 1 (v10+); BSPSize: 326269520; MagicNumber: -17958194
+L 03/24/2026 - 19:53:09: [navmesh.smx] Place count: 26
+L 03/24/2026 - 19:53:09: [navmesh.smx] Has unnamed areas: true
+L 03/24/2026 - 19:53:09: [navmesh.smx] Area count: 716
+L 03/24/2026 - 19:53:09: [navmesh.smx] Parsed 716 areas in 0.011091 seconds.
+L 03/24/2026 - 19:53:09: [navmesh.smx] Ladder count: 0
+L 03/24/2026 - 19:53:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_eco_limit") (value "0")
+L 03/24/2026 - 19:53:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_chatter_use_rr") (value "0")
+L 03/24/2026 - 19:53:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_controllable") (value "0")
+L 03/24/2026 - 20:25:01: SourceMod log file session started (file "c:\games\csgo_server\csgo\addons\sourcemod\logs\L20260324.log") (Version "1.13.0.7301")
+L 03/24/2026 - 20:25:01: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (c:\games\csgo_server\csgo\addons\sourcemod\configs\geoip\GeoLite2-City.mmdb)
+L 03/24/2026 - 20:25:01: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 03/24/2026 - 20:25:01: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 03/24/2026 - 20:25:12: [navmesh.smx] Found .NAV file in maps\de_dust2.nav
+L 03/24/2026 - 20:25:12: [navmesh.smx] Is mesh analyzed: 1
+L 03/24/2026 - 20:25:12: [navmesh.smx] Nav version: 16; SubVersion: 1 (v10+); BSPSize: 326269520; MagicNumber: -17958194
+L 03/24/2026 - 20:25:12: [navmesh.smx] Place count: 26
+L 03/24/2026 - 20:25:12: [navmesh.smx] Has unnamed areas: true
+L 03/24/2026 - 20:25:12: [navmesh.smx] Area count: 716
+L 03/24/2026 - 20:25:12: [navmesh.smx] Parsed 716 areas in 0.024398 seconds.
+L 03/24/2026 - 20:25:12: [navmesh.smx] Ladder count: 0
+L 03/24/2026 - 20:25:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_eco_limit") (value "0")
+L 03/24/2026 - 20:25:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_chatter_use_rr") (value "0")
+L 03/24/2026 - 20:25:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_controllable") (value "0")
+L 03/24/2026 - 20:32:29: SourceMod log file session started (file "c:\games\csgo_server\csgo\addons\sourcemod\logs\L20260324.log") (Version "1.13.0.7301")
+L 03/24/2026 - 20:32:29: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (c:\games\csgo_server\csgo\addons\sourcemod\configs\geoip\GeoLite2-City.mmdb)
+L 03/24/2026 - 20:32:29: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 03/24/2026 - 20:32:29: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 03/24/2026 - 20:32:39: [navmesh.smx] Found .NAV file in maps\de_dust2.nav
+L 03/24/2026 - 20:32:39: [navmesh.smx] Is mesh analyzed: 1
+L 03/24/2026 - 20:32:39: [navmesh.smx] Nav version: 16; SubVersion: 1 (v10+); BSPSize: 326269520; MagicNumber: -17958194
+L 03/24/2026 - 20:32:39: [navmesh.smx] Place count: 26
+L 03/24/2026 - 20:32:39: [navmesh.smx] Has unnamed areas: true
+L 03/24/2026 - 20:32:39: [navmesh.smx] Area count: 716
+L 03/24/2026 - 20:32:39: [navmesh.smx] Parsed 716 areas in 0.023264 seconds.
+L 03/24/2026 - 20:32:39: [navmesh.smx] Ladder count: 0
+L 03/24/2026 - 20:32:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_eco_limit") (value "0")
+L 03/24/2026 - 20:32:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_chatter_use_rr") (value "0")
+L 03/24/2026 - 20:32:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_controllable") (value "0")

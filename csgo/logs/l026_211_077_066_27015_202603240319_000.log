@@ -1,0 +1,1193 @@
+L 03/24/2026 - 03:19:06: Log file started (file "logs\L026_211_077_066_27015_202603240319_000.log") (game "c:\games\csgo_server\csgo") (version "8802")
+L 03/24/2026 - 03:19:06: server_cvar: "cash_player_interact_with_hostage" "300"
+L 03/24/2026 - 03:19:06: server_cvar: "cash_team_elimination_hostage_map_t" "3000"
+L 03/24/2026 - 03:19:06: server_cvar: "cash_team_elimination_hostage_map_ct" "3000"
+L 03/24/2026 - 03:19:06: server_cvar: "cash_team_hostage_interaction" "600"
+L 03/24/2026 - 03:19:06: server_cvar: "cash_team_bonus_shorthanded" "1000"
+L 03/24/2026 - 03:19:06: server_cvar: "cash_team_rescued_hostage" "600"
+L 03/24/2026 - 03:19:06: server_cvar: "cash_team_win_by_defusing_bomb" "3500"
+L 03/24/2026 - 03:19:06: server_cvar: "cash_team_win_by_hostage_rescue" "2900"
+L 03/24/2026 - 03:19:06: server_cvar: "mp_friendlyfire" "1"
+L 03/24/2026 - 03:19:06: server_cvar: "mp_maxrounds" "30"
+L 03/24/2026 - 03:19:06: server_cvar: "mp_roundtime" "1.92"
+L 03/24/2026 - 03:19:06: server_cvar: "mp_roundtime_hostage" "1.92"
+L 03/24/2026 - 03:19:06: server_cvar: "mp_roundtime_defuse" "1.92"
+L 03/24/2026 - 03:19:06: server_cvar: "mp_timelimit" "0"
+L 03/24/2026 - 03:19:06: server_cvar: "sv_deadtalk" "1"
+L 03/24/2026 - 03:19:11: server_cvar: "sv_competitive_official_5v5" "1"
+L 03/24/2026 - 03:19:11: server_cvar: "mp_freezetime" "8"
+L 03/24/2026 - 03:19:11: server_cvar: "mp_friendlyfire" "0"
+L 03/24/2026 - 03:19:11: server_cvar: "tv_enable" "1"
+L 03/24/2026 - 03:19:11: World triggered "Round_Start"
+L 03/24/2026 - 03:19:30: "YurDu<2><STEAM_1:0:90764598><>" connected, address ""
+L 03/24/2026 - 03:19:40: "YurDu<2><STEAM_1:0:90764598><>" entered the game
+L 03/24/2026 - 03:19:49: "YurDu<2><STEAM_1:0:90764598>" switched from team <Unassigned> to <CT>
+L 03/24/2026 - 03:19:49: World triggered "Game_Commencing"
+L 03/24/2026 - 03:19:49: Team playing "CT": Lilmix
+L 03/24/2026 - 03:19:49: Team playing "TERRORIST": Sangal Esports
+L 03/24/2026 - 03:19:50: Starting Freeze period
+L 03/24/2026 - 03:19:50: World triggered "Match_Start" on "de_dust2"
+L 03/24/2026 - 03:19:50: Team playing "CT": Lilmix
+L 03/24/2026 - 03:19:50: Team playing "TERRORIST": Sangal Esports
+L 03/24/2026 - 03:19:50: MatchStatus: Team playing "CT": Lilmix
+L 03/24/2026 - 03:19:50: MatchStatus: Team playing "TERRORIST": Sangal Esports
+L 03/24/2026 - 03:19:50: MatchStatus: Score: 0:0 on map "de_dust2" RoundsPlayed: 0
+L 03/24/2026 - 03:19:58: World triggered "Round_Start"
+L 03/24/2026 - 03:19:58: "Ivan<3><BOT><>" connected, address ""
+L 03/24/2026 - 03:19:59: "Ivan<3><BOT>" switched from team <Unassigned> to <TERRORIST>
+L 03/24/2026 - 03:19:59: "Ivan<3><BOT><TERRORIST>" triggered "Got_The_Bomb"
+L 03/24/2026 - 03:19:59: "Ivan<3><BOT><>" entered the game
+L 03/24/2026 - 03:19:59: "Dan<4><BOT><>" connected, address ""
+L 03/24/2026 - 03:19:59: "Dan<4><BOT>" switched from team <Unassigned> to <TERRORIST>
+L 03/24/2026 - 03:19:59: "Dan<4><BOT><>" entered the game
+L 03/24/2026 - 03:19:59: "Chad<5><BOT><>" connected, address ""
+L 03/24/2026 - 03:20:00: "Chad<5><BOT>" switched from team <Unassigned> to <TERRORIST>
+L 03/24/2026 - 03:20:00: "Chad<5><BOT><>" entered the game
+L 03/24/2026 - 03:20:00: "Chet<6><BOT><>" connected, address ""
+L 03/24/2026 - 03:20:00: "Chet<6><BOT>" switched from team <Unassigned> to <TERRORIST>
+L 03/24/2026 - 03:20:00: "Chet<6><BOT><>" entered the game
+L 03/24/2026 - 03:20:00: "Brad<7><BOT><>" connected, address ""
+L 03/24/2026 - 03:20:00: "Brad<7><BOT>" switched from team <Unassigned> to <TERRORIST>
+L 03/24/2026 - 03:20:00: "Brad<7><BOT><>" entered the game
+L 03/24/2026 - 03:20:01: "Ivan<3><BOT><TERRORIST>" purchased "p250"
+L 03/24/2026 - 03:20:01: "Dan<4><BOT><TERRORIST>" purchased "p250"
+L 03/24/2026 - 03:20:01: "Chad<5><BOT><TERRORIST>" purchased "item_kevlar"
+L 03/24/2026 - 03:20:01: "Chet<6><BOT><TERRORIST>" purchased "item_kevlar"
+L 03/24/2026 - 03:20:01: "Brad<7><BOT><TERRORIST>" purchased "item_kevlar"
+L 03/24/2026 - 03:20:15: "Ivan<3><BOT><TERRORIST>" triggered "Dropped_The_Bomb"
+L 03/24/2026 - 03:20:22: "YurDu<2><STEAM_1:0:90764598><CT>" [18 -679 8] killed "Ivan<3><BOT><TERRORIST>" [-332 -754 143] with "hkp2000" (headshot)
+L 03/24/2026 - 03:20:26: "YurDu<2><STEAM_1:0:90764598><CT>" [-352 -791 81] killed "Chet<6><BOT><TERRORIST>" [-493 -808 173] with "glock" (headshot)
+L 03/24/2026 - 03:20:29: "YurDu<2><STEAM_1:0:90764598><CT>" [-677 -781 118] killed "Dan<4><BOT><TERRORIST>" [-858 -738 186] with "glock" (headshot)
+L 03/24/2026 - 03:20:34: "YurDu<2><STEAM_1:0:90764598><CT>" [-763 -790 117] killed "Brad<7><BOT><TERRORIST>" [-980 -754 184] with "p250" (headshot)
+L 03/24/2026 - 03:20:35: "YurDu<2><STEAM_1:0:90764598><CT>" [-769 -841 117] killed "Chad<5><BOT><TERRORIST>" [-1076 -843 181] with "p250" (headshot)
+L 03/24/2026 - 03:20:35: Team "CT" triggered "SFUI_Notice_CTs_Win" (CT "1") (T "0")
+L 03/24/2026 - 03:20:35: Team "CT" scored "1" with "1" players
+L 03/24/2026 - 03:20:35: Team "TERRORIST" scored "0" with "5" players
+L 03/24/2026 - 03:20:35: MatchStatus: Team playing "CT": Lilmix
+L 03/24/2026 - 03:20:35: MatchStatus: Team playing "TERRORIST": Sangal Esports
+L 03/24/2026 - 03:20:35: MatchStatus: Score: 1:0 on map "de_dust2" RoundsPlayed: 1
+L 03/24/2026 - 03:20:35: World triggered "Round_End"
+L 03/24/2026 - 03:20:42: Starting Freeze period
+L 03/24/2026 - 03:20:42: "Chad<5><BOT><TERRORIST>" triggered "Got_The_Bomb"
+L 03/24/2026 - 03:20:42: MatchStatus: Team playing "CT": Lilmix
+L 03/24/2026 - 03:20:42: MatchStatus: Team playing "TERRORIST": Sangal Esports
+L 03/24/2026 - 03:20:42: MatchStatus: Score: 1:0 on map "de_dust2" RoundsPlayed: 1
+L 03/24/2026 - 03:20:43: "Dan<4><BOT><TERRORIST>" purchased "p250"
+L 03/24/2026 - 03:20:43: "Brad<7><BOT><TERRORIST>" purchased "p250"
+L 03/24/2026 - 03:20:45: "Ivan<3><BOT><TERRORIST>" purchased "deagle"
+L 03/24/2026 - 03:20:46: "Chet<6><BOT><TERRORIST>" purchased "tec9"
+L 03/24/2026 - 03:20:50: World triggered "Round_Start"
+L 03/24/2026 - 03:20:52: "Dan<4><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:20:53: "Dan<4><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:20:55: "Dan<4><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:20:55: "Chad<5><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:20:57: "Dan<4><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:20:59: "Chad<5><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:21:00: "Dan<4><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:21:01: STEAMAUTH: Client YurDu received failure code 1
+L 03/24/2026 - 03:21:05: "Chad<5><BOT><TERRORIST>" triggered "Dropped_The_Bomb"
+L 03/24/2026 - 03:21:08: "Dan<4><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:21:09: "Chad<5><BOT><TERRORIST>" purchased "tec9"
+L 03/24/2026 - 03:21:13: "Dan<4><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:21:14: "Dan<4><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:21:25: "Dan<4><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:21:38: "Dan<4><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:21:40: "YurDu<2><STEAM_1:0:90764598><CT>" [121 -653 -1] killed "Chad<5><BOT><TERRORIST>" [-367 -808 148] with "p250" (headshot)
+L 03/24/2026 - 03:21:43: "Dan<4><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:21:44: "Dan<4><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:21:45: "YurDu<2><STEAM_1:0:90764598><CT>" [-508 -800 110] killed "Dan<4><BOT><TERRORIST>" [-657 -756 184] with "tec9" (headshot)
+L 03/24/2026 - 03:21:46: "YurDu<2><STEAM_1:0:90764598><CT>" [-584 -794 114] killed "Chet<6><BOT><TERRORIST>" [-697 -807 181] with "tec9" (headshot)
+L 03/24/2026 - 03:21:50: "YurDu<2><STEAM_1:0:90764598><CT>" [-715 -766 119] killed "Ivan<3><BOT><TERRORIST>" [-858 -738 186] with "tec9" (headshot)
+L 03/24/2026 - 03:22:01: "YurDu<2><STEAM_1:0:90764598><CT>" [-767 -776 118] killed "Brad<7><BOT><TERRORIST>" [-1141 -808 181] with "deagle" (headshot)
+L 03/24/2026 - 03:22:01: Team "CT" triggered "SFUI_Notice_CTs_Win" (CT "2") (T "0")
+L 03/24/2026 - 03:22:01: Team "CT" scored "2" with "1" players
+L 03/24/2026 - 03:22:01: Team "TERRORIST" scored "0" with "5" players
+L 03/24/2026 - 03:22:01: MatchStatus: Team playing "CT": Lilmix
+L 03/24/2026 - 03:22:01: MatchStatus: Team playing "TERRORIST": Sangal Esports
+L 03/24/2026 - 03:22:01: MatchStatus: Score: 2:0 on map "de_dust2" RoundsPlayed: 2
+L 03/24/2026 - 03:22:01: World triggered "Round_End"
+L 03/24/2026 - 03:22:08: Starting Freeze period
+L 03/24/2026 - 03:22:08: "Ivan<3><BOT><TERRORIST>" triggered "Got_The_Bomb"
+L 03/24/2026 - 03:22:08: MatchStatus: Team playing "CT": Lilmix
+L 03/24/2026 - 03:22:08: MatchStatus: Team playing "TERRORIST": Sangal Esports
+L 03/24/2026 - 03:22:08: MatchStatus: Score: 2:0 on map "de_dust2" RoundsPlayed: 2
+L 03/24/2026 - 03:22:16: World triggered "Round_Start"
+L 03/24/2026 - 03:22:31: "Ivan<3><BOT><TERRORIST>" triggered "Dropped_The_Bomb"
+L 03/24/2026 - 03:23:58: "Tony<8><BOT><>" connected, address ""
+L 03/24/2026 - 03:23:59: "Tony<8><BOT>" switched from team <Unassigned> to <CT>
+L 03/24/2026 - 03:23:59: "Tony<8><BOT><>" entered the game
+L 03/24/2026 - 03:23:59: "Tony<8><BOT><CT>" disconnected (reason "Kicked by Console")
+L 03/24/2026 - 03:23:59: "Tony<8><BOT>" switched from team <CT> to <Unassigned>
+L 03/24/2026 - 03:24:11: Team "CT" triggered "SFUI_Notice_Target_Saved" (CT "3") (T "0")
+L 03/24/2026 - 03:24:11: Team "CT" scored "3" with "1" players
+L 03/24/2026 - 03:24:11: Team "TERRORIST" scored "0" with "5" players
+L 03/24/2026 - 03:24:11: MatchStatus: Team playing "CT": Lilmix
+L 03/24/2026 - 03:24:11: MatchStatus: Team playing "TERRORIST": Sangal Esports
+L 03/24/2026 - 03:24:11: MatchStatus: Score: 3:0 on map "de_dust2" RoundsPlayed: 3
+L 03/24/2026 - 03:24:11: World triggered "Round_End"
+L 03/24/2026 - 03:24:18: Starting Freeze period
+L 03/24/2026 - 03:24:18: "Brad<7><BOT><TERRORIST>" triggered "Got_The_Bomb"
+L 03/24/2026 - 03:24:18: MatchStatus: Team playing "CT": Lilmix
+L 03/24/2026 - 03:24:18: MatchStatus: Team playing "TERRORIST": Sangal Esports
+L 03/24/2026 - 03:24:18: MatchStatus: Score: 3:0 on map "de_dust2" RoundsPlayed: 3
+L 03/24/2026 - 03:24:26: World triggered "Round_Start"
+L 03/24/2026 - 03:24:41: "Brad<7><BOT><TERRORIST>" triggered "Dropped_The_Bomb"
+L 03/24/2026 - 03:25:37: "YurDu<2><STEAM_1:0:90764598><CT>" [318 -406 0] killed "Chet<6><BOT><TERRORIST>" [-332 -754 143] with "deagle" (headshot)
+L 03/24/2026 - 03:25:44: "YurDu<2><STEAM_1:0:90764598><CT>" [-865 -764 119] killed "Chad<5><BOT><TERRORIST>" [-822 -796 181] with "knife"
+L 03/24/2026 - 03:25:45: "YurDu<2><STEAM_1:0:90764598><CT>" [-803 -846 117] killed "Dan<4><BOT><TERRORIST>" [-761 -836 181] with "knife"
+L 03/24/2026 - 03:25:50: "YurDu<2><STEAM_1:0:90764598><CT>" [-1182 -805 116] killed "Ivan<3><BOT><TERRORIST>" [-1141 -808 181] with "deagle" (headshot)
+L 03/24/2026 - 03:25:50: "YurDu<2><STEAM_1:0:90764598><CT>" [-1182 -805 116] killed "Brad<7><BOT><TERRORIST>" [-1015 -808 180] with "deagle" (headshot penetrated)
+L 03/24/2026 - 03:25:50: Team "CT" triggered "SFUI_Notice_CTs_Win" (CT "4") (T "0")
+L 03/24/2026 - 03:25:50: Team "CT" scored "4" with "1" players
+L 03/24/2026 - 03:25:50: Team "TERRORIST" scored "0" with "5" players
+L 03/24/2026 - 03:25:50: MatchStatus: Team playing "CT": Lilmix
+L 03/24/2026 - 03:25:50: MatchStatus: Team playing "TERRORIST": Sangal Esports
+L 03/24/2026 - 03:25:50: MatchStatus: Score: 4:0 on map "de_dust2" RoundsPlayed: 4
+L 03/24/2026 - 03:25:50: World triggered "Round_End"
+L 03/24/2026 - 03:25:57: Starting Freeze period
+L 03/24/2026 - 03:25:57: "Chet<6><BOT><TERRORIST>" triggered "Got_The_Bomb"
+L 03/24/2026 - 03:25:57: MatchStatus: Team playing "CT": Lilmix
+L 03/24/2026 - 03:25:57: MatchStatus: Team playing "TERRORIST": Sangal Esports
+L 03/24/2026 - 03:25:57: MatchStatus: Score: 4:0 on map "de_dust2" RoundsPlayed: 4
+L 03/24/2026 - 03:26:05: World triggered "Round_Start"
+L 03/24/2026 - 03:26:20: "Chet<6><BOT><TERRORIST>" triggered "Dropped_The_Bomb"
+L 03/24/2026 - 03:28:00: Team "CT" triggered "SFUI_Notice_Target_Saved" (CT "5") (T "0")
+L 03/24/2026 - 03:28:00: Team "CT" scored "5" with "1" players
+L 03/24/2026 - 03:28:00: Team "TERRORIST" scored "0" with "5" players
+L 03/24/2026 - 03:28:00: MatchStatus: Team playing "CT": Lilmix
+L 03/24/2026 - 03:28:00: MatchStatus: Team playing "TERRORIST": Sangal Esports
+L 03/24/2026 - 03:28:00: MatchStatus: Score: 5:0 on map "de_dust2" RoundsPlayed: 5
+L 03/24/2026 - 03:28:00: World triggered "Round_End"
+L 03/24/2026 - 03:28:08: Starting Freeze period
+L 03/24/2026 - 03:28:08: "Dan<4><BOT><TERRORIST>" triggered "Got_The_Bomb"
+L 03/24/2026 - 03:28:08: MatchStatus: Team playing "CT": Lilmix
+L 03/24/2026 - 03:28:08: MatchStatus: Team playing "TERRORIST": Sangal Esports
+L 03/24/2026 - 03:28:08: MatchStatus: Score: 5:0 on map "de_dust2" RoundsPlayed: 5
+L 03/24/2026 - 03:28:16: World triggered "Round_Start"
+L 03/24/2026 - 03:28:18: "Ivan<3><BOT><TERRORIST>" purchased "ak47"
+L 03/24/2026 - 03:28:18: "Ivan<3><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 03/24/2026 - 03:28:18: "Ivan<3><BOT><TERRORIST>" purchased "flashbang"
+L 03/24/2026 - 03:28:18: "Chad<5><BOT><TERRORIST>" purchased "ak47"
+L 03/24/2026 - 03:28:18: "Chad<5><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 03/24/2026 - 03:28:18: "Chad<5><BOT><TERRORIST>" purchased "molotov"
+L 03/24/2026 - 03:28:18: "Brad<7><BOT><TERRORIST>" purchased "ak47"
+L 03/24/2026 - 03:28:18: "Brad<7><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 03/24/2026 - 03:28:18: "Brad<7><BOT><TERRORIST>" purchased "smokegrenade"
+L 03/24/2026 - 03:28:18: "Tony<9><BOT><>" connected, address ""
+L 03/24/2026 - 03:28:18: "Tony<9><BOT>" switched from team <Unassigned> to <CT>
+L 03/24/2026 - 03:28:18: "Tony<9><BOT><>" entered the game
+L 03/24/2026 - 03:28:18: "Dan<4><BOT><TERRORIST>" purchased "awp"
+L 03/24/2026 - 03:28:18: "Dan<4><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 03/24/2026 - 03:28:18: "Dan<4><BOT><TERRORIST>" purchased "deagle"
+L 03/24/2026 - 03:28:18: "Dan<4><BOT><TERRORIST>" purchased "hegrenade"
+L 03/24/2026 - 03:28:18: "Chet<6><BOT><TERRORIST>" purchased "ak47"
+L 03/24/2026 - 03:28:18: "Chet<6><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 03/24/2026 - 03:28:18: "Chet<6><BOT><TERRORIST>" purchased "molotov"
+L 03/24/2026 - 03:28:18: "Seth<10><BOT><>" connected, address ""
+L 03/24/2026 - 03:28:19: "Seth<10><BOT>" switched from team <Unassigned> to <CT>
+L 03/24/2026 - 03:28:19: "Seth<10><BOT><>" entered the game
+L 03/24/2026 - 03:28:19: "Troy<11><BOT><>" connected, address ""
+L 03/24/2026 - 03:28:19: "Troy<11><BOT>" switched from team <Unassigned> to <CT>
+L 03/24/2026 - 03:28:19: "Troy<11><BOT><>" entered the game
+L 03/24/2026 - 03:28:19: "Jim<12><BOT><>" connected, address ""
+L 03/24/2026 - 03:28:19: "Jim<12><BOT>" switched from team <Unassigned> to <CT>
+L 03/24/2026 - 03:28:19: "Jim<12><BOT><>" entered the game
+L 03/24/2026 - 03:28:29: "Brad<7><BOT><TERRORIST>" threw smokegrenade [-287 1458 -27]
+L 03/24/2026 - 03:28:29: "Ivan<3><BOT><TERRORIST>" threw flashbang [1100 433 366] flashbang entindex 381)
+L 03/24/2026 - 03:28:35: "Dan<4><BOT><TERRORIST>" triggered "Dropped_The_Bomb"
+L 03/24/2026 - 03:28:35: "YurDu<2><STEAM_1:0:90764598><CT>" [-509 2183 -124] killed "Dan<4><BOT><TERRORIST>" [-391 1386 -62] with "deagle" (headshot)
+L 03/24/2026 - 03:28:42: "Ivan<3><BOT><TERRORIST>" [-408 1100 -81] killed "YurDu<2><STEAM_1:0:90764598><CT>" [-351 1515 -62] with "ak47" (penetrated)
+L 03/24/2026 - 03:28:42: Team "TERRORIST" triggered "SFUI_Notice_Terrorists_Win" (CT "5") (T "1")
+L 03/24/2026 - 03:28:42: Team "CT" scored "5" with "5" players
+L 03/24/2026 - 03:28:42: Team "TERRORIST" scored "1" with "5" players
+L 03/24/2026 - 03:28:42: MatchStatus: Team playing "CT": Lilmix
+L 03/24/2026 - 03:28:42: MatchStatus: Team playing "TERRORIST": Sangal Esports
+L 03/24/2026 - 03:28:42: MatchStatus: Score: 5:1 on map "de_dust2" RoundsPlayed: 6
+L 03/24/2026 - 03:28:42: World triggered "Round_End"
+L 03/24/2026 - 03:28:46: "Brad<7><BOT><TERRORIST>" triggered "Got_The_Bomb"
+L 03/24/2026 - 03:28:49: Starting Freeze period
+L 03/24/2026 - 03:28:49: "Chad<5><BOT><TERRORIST>" triggered "Got_The_Bomb"
+L 03/24/2026 - 03:28:49: MatchStatus: Team playing "CT": Lilmix
+L 03/24/2026 - 03:28:49: MatchStatus: Team playing "TERRORIST": Sangal Esports
+L 03/24/2026 - 03:28:49: MatchStatus: Score: 5:1 on map "de_dust2" RoundsPlayed: 6
+L 03/24/2026 - 03:28:49: "Chad<5><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:28:49: "Brad<7><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:28:49: "Brad<7><BOT><TERRORIST>" purchased "flashbang"
+L 03/24/2026 - 03:28:49: "Chet<6><BOT><TERRORIST>" purchased "p250"
+L 03/24/2026 - 03:28:51: "Ivan<3><BOT><TERRORIST>" purchased "flashbang"
+L 03/24/2026 - 03:28:51: "Dan<4><BOT><TERRORIST>" purchased "tec9"
+L 03/24/2026 - 03:28:51: "Dan<4><BOT><TERRORIST>" purchased "ak47"
+L 03/24/2026 - 03:28:51: "Dan<4><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 03/24/2026 - 03:28:51: "Tony<9><BOT><CT>" purchased "item_assaultsuit"
+L 03/24/2026 - 03:28:51: "Tony<9><BOT><CT>" purchased "hegrenade"
+L 03/24/2026 - 03:28:51: "Troy<11><BOT><CT>" purchased "item_assaultsuit"
+L 03/24/2026 - 03:28:51: "Troy<11><BOT><CT>" purchased "deagle"
+L 03/24/2026 - 03:28:51: "Troy<11><BOT><CT>" purchased "hegrenade"
+L 03/24/2026 - 03:28:51: "Seth<10><BOT><CT>" purchased "item_assaultsuit"
+L 03/24/2026 - 03:28:51: "Seth<10><BOT><CT>" purchased "flashbang"
+L 03/24/2026 - 03:28:51: "Jim<12><BOT><CT>" purchased "item_assaultsuit"
+L 03/24/2026 - 03:28:51: "Jim<12><BOT><CT>" purchased "hegrenade"
+L 03/24/2026 - 03:28:56: "Ivan<3><BOT><TERRORIST>" purchased "smokegrenade"
+L 03/24/2026 - 03:28:56: "Ivan<3><BOT><TERRORIST>" purchased "flashbang"
+L 03/24/2026 - 03:28:56: "Ivan<3><BOT><TERRORIST>" purchased "hegrenade"
+L 03/24/2026 - 03:28:56: "Dan<4><BOT><TERRORIST>" purchased "flashbang"
+L 03/24/2026 - 03:28:56: "Chad<5><BOT><TERRORIST>" purchased "smokegrenade"
+L 03/24/2026 - 03:28:57: "Chad<5><BOT><TERRORIST>" purchased "flashbang"
+L 03/24/2026 - 03:28:57: "Chad<5><BOT><TERRORIST>" purchased "flashbang"
+L 03/24/2026 - 03:28:57: "Chet<6><BOT><TERRORIST>" purchased "smokegrenade"
+L 03/24/2026 - 03:28:57: "Chet<6><BOT><TERRORIST>" purchased "flashbang"
+L 03/24/2026 - 03:28:57: "Chet<6><BOT><TERRORIST>" purchased "flashbang"
+L 03/24/2026 - 03:28:57: "Brad<7><BOT><TERRORIST>" purchased "smokegrenade"
+L 03/24/2026 - 03:28:57: "Brad<7><BOT><TERRORIST>" purchased "flashbang"
+L 03/24/2026 - 03:28:57: "Brad<7><BOT><TERRORIST>" purchased "hegrenade"
+L 03/24/2026 - 03:28:58: World triggered "Round_Start"
+L 03/24/2026 - 03:29:06: "Seth<10><BOT><CT>" threw flashbang [-282 470 92] flashbang entindex 368)
+L 03/24/2026 - 03:29:06: "Tony<9><BOT><CT>" blinded for 3.28 by "Seth<10><BOT><CT>" from flashbang entindex 368 
+L 03/24/2026 - 03:29:06: "Seth<10><BOT><CT>" blinded for 3.44 by "Seth<10><BOT><CT>" from flashbang entindex 368 
+L 03/24/2026 - 03:29:06: "Troy<11><BOT><CT>" blinded for 3.34 by "Seth<10><BOT><CT>" from flashbang entindex 368 
+L 03/24/2026 - 03:29:06: "Jim<12><BOT><CT>" blinded for 0.56 by "Seth<10><BOT><CT>" from flashbang entindex 368 
+L 03/24/2026 - 03:29:06: "Jim<12><BOT><CT>" threw hegrenade [-405 1358 -123]
+L 03/24/2026 - 03:29:07: "Troy<11><BOT><CT>" threw hegrenade [-513 637 12]
+L 03/24/2026 - 03:29:08: "Brad<7><BOT><TERRORIST>" threw smokegrenade [-287 1458 -27]
+L 03/24/2026 - 03:29:08: "Tony<9><BOT><CT>" threw hegrenade [-432 811 23]
+L 03/24/2026 - 03:29:08: "Chad<5><BOT><TERRORIST>" threw flashbang [1100 433 366] flashbang entindex 375)
+L 03/24/2026 - 03:29:08: "Chet<6><BOT><TERRORIST>" threw smokegrenade [1301 1118 -2]
+L 03/24/2026 - 03:29:09: "Ivan<3><BOT><TERRORIST>" threw flashbang [1071 420 399] flashbang entindex 368)
+L 03/24/2026 - 03:29:09: "Ivan<3><BOT><TERRORIST>" blinded for 0.40 by "Ivan<3><BOT><TERRORIST>" from flashbang entindex 368 
+L 03/24/2026 - 03:29:11: "Dan<4><BOT><TERRORIST>" threw flashbang [1069 538 448] flashbang entindex 375)
+L 03/24/2026 - 03:29:15: Molotov projectile spawned at 657.486877 592.436523 65.523041, velocity -7.184780 -670.489746 34.425503
+L 03/24/2026 - 03:29:16: "Chad<5><BOT><TERRORIST>" threw molotov [585 276 3]
+L 03/24/2026 - 03:29:16: "Brad<7><BOT><TERRORIST>" threw hegrenade [591 676 3]
+L 03/24/2026 - 03:29:17: Molotov projectile spawned at 859.734497 802.857788 141.499039, velocity 400.990295 541.542236 295.941956
+L 03/24/2026 - 03:29:18: "Troy<11><BOT><CT>" [234 -243 9] killed "Dan<4><BOT><TERRORIST>" [352 70 62] with "deagle"
+L 03/24/2026 - 03:29:18: "Seth<10><BOT><CT>" assisted killing "Dan<4><BOT><TERRORIST>"
+L 03/24/2026 - 03:29:19: "Chet<6><BOT><TERRORIST>" threw molotov [1674 1903 82]
+L 03/24/2026 - 03:29:24: World triggered "Restart_Round_(1_second)"
+L 03/24/2026 - 03:29:24: Team "CT" scored "5" with "5" players
+L 03/24/2026 - 03:29:24: Team "TERRORIST" scored "1" with "5" players
+L 03/24/2026 - 03:29:25: Starting Freeze period
+L 03/24/2026 - 03:29:25: World triggered "Match_Start" on "de_dust2"
+L 03/24/2026 - 03:29:25: Team playing "CT": Lilmix
+L 03/24/2026 - 03:29:25: Team playing "TERRORIST": Sangal Esports
+L 03/24/2026 - 03:29:25: "Chet<6><BOT><TERRORIST>" triggered "Got_The_Bomb"
+L 03/24/2026 - 03:29:25: MatchStatus: Team playing "CT": Lilmix
+L 03/24/2026 - 03:29:25: MatchStatus: Team playing "TERRORIST": Sangal Esports
+L 03/24/2026 - 03:29:25: MatchStatus: Score: 0:0 on map "de_dust2" RoundsPlayed: 0
+L 03/24/2026 - 03:29:25: "Dan<4><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Chet<6><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Tony<9><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Troy<11><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Ivan<3><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Chad<5><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Brad<7><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Seth<10><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Jim<12><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Dan<4><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Chet<6><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Tony<9><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Troy<11><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Ivan<3><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Chad<5><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Brad<7><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Seth<10><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Jim<12><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Dan<4><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Chet<6><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Tony<9><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Troy<11><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Ivan<3><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Chad<5><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Brad<7><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Seth<10><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Jim<12><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Dan<4><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Chet<6><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Tony<9><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Troy<11><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Ivan<3><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Chad<5><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Brad<7><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Seth<10><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Jim<12><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Dan<4><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Chet<6><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Tony<9><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Troy<11><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Ivan<3><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Chad<5><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Brad<7><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Seth<10><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Jim<12><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Dan<4><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Chet<6><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Tony<9><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Troy<11><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Ivan<3><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Chad<5><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Brad<7><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Seth<10><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Jim<12><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Dan<4><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Dan<4><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Dan<4><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Dan<4><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Dan<4><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Chet<6><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Chet<6><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Chet<6><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Chet<6><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Chet<6><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Tony<9><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Tony<9><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Tony<9><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Tony<9><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Tony<9><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Troy<11><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Troy<11><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Troy<11><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Troy<11><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Troy<11><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Ivan<3><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Ivan<3><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Ivan<3><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Ivan<3><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Ivan<3><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Chad<5><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Chad<5><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Chad<5><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Chad<5><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Chad<5><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Brad<7><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Brad<7><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Brad<7><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Brad<7><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Seth<10><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Seth<10><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Seth<10><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Seth<10><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Jim<12><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Jim<12><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Jim<12><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:29:25: "Jim<12><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:29:32: "YurDu<2><STEAM_1:0:90764598><CT>" purchased "item_kevlar"
+L 03/24/2026 - 03:29:33: World triggered "Round_Start"
+L 03/24/2026 - 03:29:40: "YurDu<2><STEAM_1:0:90764598><CT>" [-415 2321 -112] killed "Dan<4><BOT><TERRORIST>" [-418 -347 65] with "hkp2000"
+L 03/24/2026 - 03:29:45: "Chad<5><BOT><TERRORIST>" [-300 314 1] killed "Jim<12><BOT><CT>" [-321 823 62] with "glock"
+L 03/24/2026 - 03:29:48: "YurDu<2><STEAM_1:0:90764598><CT>" [-490 1520 -121] killed "Chad<5><BOT><TERRORIST>" [-190 478 63] with "hkp2000" (headshot)
+L 03/24/2026 - 03:29:48: "Jim<12><BOT><CT>" assisted killing "Chad<5><BOT><TERRORIST>"
+L 03/24/2026 - 03:29:54: "Brad<7><BOT><TERRORIST>" [-1998 1428 30] killed "Tony<9><BOT><CT>" [-2087 2782 100] with "glock"
+L 03/24/2026 - 03:29:54: "Chet<6><BOT><TERRORIST>" assisted killing "Tony<9><BOT><CT>"
+L 03/24/2026 - 03:29:57: "Brad<7><BOT><TERRORIST>" [-1975 1767 32] killed "Troy<11><BOT><CT>" [-1912 2279 64] with "glock"
+L 03/24/2026 - 03:29:57: "Chet<6><BOT><TERRORIST>" assisted killing "Troy<11><BOT><CT>"
+L 03/24/2026 - 03:30:00: "YurDu<2><STEAM_1:0:90764598><CT>" [-404 1367 -126] killed "Ivan<3><BOT><TERRORIST>" [-672 1518 -43] with "usp_silencer"
+L 03/24/2026 - 03:30:05: "Chet<6><BOT><TERRORIST>" triggered "Bomb_Begin_Plant" at bombsite B
+L 03/24/2026 - 03:30:08: "Chet<6><BOT><TERRORIST>" triggered "Planted_The_Bomb" at bombsite B
+L 03/24/2026 - 03:30:08: "Seth<10><BOT><CT>" [-1361 2183 2] killed "Brad<7><BOT><TERRORIST>" [-1509 2229 63] with "usp_silencer"
+L 03/24/2026 - 03:30:08: "Tony<9><BOT><CT>" assisted killing "Brad<7><BOT><TERRORIST>"
+L 03/24/2026 - 03:30:10: "Seth<10><BOT><CT>" [-1355 2181 2] killed "Chet<6><BOT><TERRORIST>" [-1539 2611 70] with "usp_silencer"
+L 03/24/2026 - 03:30:10: "Troy<11><BOT><CT>" assisted killing "Chet<6><BOT><TERRORIST>"
+L 03/24/2026 - 03:30:14: "Seth<10><BOT><CT>" triggered "Begin_Bomb_Defuse_Without_Kit"
+L 03/24/2026 - 03:30:24: "Seth<10><BOT><CT>" triggered "Defused_The_Bomb"
+L 03/24/2026 - 03:30:24: Team "CT" triggered "SFUI_Notice_Bomb_Defused" (CT "1") (T "0")
+L 03/24/2026 - 03:30:24: Team "CT" scored "1" with "5" players
+L 03/24/2026 - 03:30:24: Team "TERRORIST" scored "0" with "5" players
+L 03/24/2026 - 03:30:24: MatchStatus: Team playing "CT": Lilmix
+L 03/24/2026 - 03:30:24: MatchStatus: Team playing "TERRORIST": Sangal Esports
+L 03/24/2026 - 03:30:24: MatchStatus: Score: 1:0 on map "de_dust2" RoundsPlayed: 1
+L 03/24/2026 - 03:30:24: World triggered "Round_End"
+L 03/24/2026 - 03:30:31: Starting Freeze period
+L 03/24/2026 - 03:30:31: "Dan<4><BOT><TERRORIST>" triggered "Got_The_Bomb"
+L 03/24/2026 - 03:30:31: MatchStatus: Team playing "CT": Lilmix
+L 03/24/2026 - 03:30:31: MatchStatus: Team playing "TERRORIST": Sangal Esports
+L 03/24/2026 - 03:30:31: MatchStatus: Score: 1:0 on map "de_dust2" RoundsPlayed: 1
+L 03/24/2026 - 03:30:31: "Chet<6><BOT><TERRORIST>" purchased "ak47"
+L 03/24/2026 - 03:30:31: "Chet<6><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 03/24/2026 - 03:30:31: "Tony<9><BOT><CT>" purchased "m4a1"
+L 03/24/2026 - 03:30:31: "Tony<9><BOT><CT>" purchased "item_assaultsuit"
+L 03/24/2026 - 03:30:31: "Troy<11><BOT><CT>" purchased "m4a1"
+L 03/24/2026 - 03:30:31: "Troy<11><BOT><CT>" purchased "item_assaultsuit"
+L 03/24/2026 - 03:30:31: "Troy<11><BOT><CT>" purchased "flashbang"
+L 03/24/2026 - 03:30:31: "Ivan<3><BOT><TERRORIST>" purchased "ak47"
+L 03/24/2026 - 03:30:31: "Ivan<3><BOT><TERRORIST>" purchased "item_kevlar"
+L 03/24/2026 - 03:30:31: "Chad<5><BOT><TERRORIST>" purchased "ak47"
+L 03/24/2026 - 03:30:31: "Chad<5><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 03/24/2026 - 03:30:31: "Brad<7><BOT><TERRORIST>" purchased "ak47"
+L 03/24/2026 - 03:30:31: "Brad<7><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 03/24/2026 - 03:30:31: "Brad<7><BOT><TERRORIST>" purchased "hegrenade"
+L 03/24/2026 - 03:30:31: "Seth<10><BOT><CT>" purchased "m4a1"
+L 03/24/2026 - 03:30:31: "Seth<10><BOT><CT>" purchased "item_assaultsuit"
+L 03/24/2026 - 03:30:31: "Seth<10><BOT><CT>" purchased "smokegrenade"
+L 03/24/2026 - 03:30:31: "Jim<12><BOT><CT>" purchased "aug"
+L 03/24/2026 - 03:30:31: "Jim<12><BOT><CT>" purchased "item_assaultsuit"
+L 03/24/2026 - 03:30:31: "Dan<4><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 03/24/2026 - 03:30:31: "Tony<9><BOT><CT>" purchased "item_defuser"
+L 03/24/2026 - 03:30:31: "Seth<10><BOT><CT>" purchased "item_defuser"
+L 03/24/2026 - 03:30:31: "Dan<4><BOT><TERRORIST>" purchased "hegrenade"
+L 03/24/2026 - 03:30:33: "YurDu<2><STEAM_1:0:90764598><CT>" purchased "m4a1"
+L 03/24/2026 - 03:30:34: "Dan<4><BOT><TERRORIST>" purchased "deagle"
+L 03/24/2026 - 03:30:37: "Dan<4><BOT><TERRORIST>" purchased "smokegrenade"
+L 03/24/2026 - 03:30:37: "Dan<4><BOT><TERRORIST>" purchased "flashbang"
+L 03/24/2026 - 03:30:37: "Dan<4><BOT><TERRORIST>" purchased "flashbang"
+L 03/24/2026 - 03:30:37: "Seth<10><BOT><CT>" purchased "flashbang"
+L 03/24/2026 - 03:30:37: "Seth<10><BOT><CT>" purchased "flashbang"
+L 03/24/2026 - 03:30:37: "Troy<11><BOT><CT>" purchased "flashbang"
+L 03/24/2026 - 03:30:39: World triggered "Round_Start"
+L 03/24/2026 - 03:30:44: "YurDu<2><STEAM_1:0:90764598><CT>" purchased "item_assaultsuit"
+L 03/24/2026 - 03:30:44: "YurDu<2><STEAM_1:0:90764598><CT>" purchased "item_defuser"
+L 03/24/2026 - 03:30:45: "YurDu<2><STEAM_1:0:90764598><CT>" purchased "flashbang"
+L 03/24/2026 - 03:30:48: "Troy<11><BOT><CT>" threw flashbang [1369 1293 461] flashbang entindex 356)
+L 03/24/2026 - 03:30:48: "Tony<9><BOT><CT>" blinded for 0.86 by "Troy<11><BOT><CT>" from flashbang entindex 356 
+L 03/24/2026 - 03:30:48: "Seth<10><BOT><CT>" blinded for 0.93 by "Troy<11><BOT><CT>" from flashbang entindex 356 
+L 03/24/2026 - 03:30:48: "Troy<11><BOT><CT>" blinded for 3.86 by "Troy<11><BOT><CT>" from flashbang entindex 356 
+L 03/24/2026 - 03:30:49: "Dan<4><BOT><TERRORIST>" threw smokegrenade [-287 1458 -27]
+L 03/24/2026 - 03:30:51: "Seth<10><BOT><CT>" threw smokegrenade [741 794 2]
+L 03/24/2026 - 03:30:53: "Dan<4><BOT><TERRORIST>" threw flashbang [1100 433 366] flashbang entindex 356)
+L 03/24/2026 - 03:30:53: "Seth<10><BOT><CT>" blinded for 0.47 by "Dan<4><BOT><TERRORIST>" from flashbang entindex 356 
+L 03/24/2026 - 03:30:53: "Troy<11><BOT><CT>" blinded for 2.74 by "Dan<4><BOT><TERRORIST>" from flashbang entindex 356 
+L 03/24/2026 - 03:30:56: "Brad<7><BOT><TERRORIST>" threw hegrenade [289 437 2]
+L 03/24/2026 - 03:30:58: "Seth<10><BOT><CT>" threw flashbang [643 334 9] flashbang entindex 363)
+L 03/24/2026 - 03:30:58: "Dan<4><BOT><TERRORIST>" blinded for 3.89 by "Seth<10><BOT><CT>" from flashbang entindex 363 
+L 03/24/2026 - 03:30:58: "Chad<5><BOT><TERRORIST>" blinded for 0.76 by "Seth<10><BOT><CT>" from flashbang entindex 363 
+L 03/24/2026 - 03:30:58: "Chet<6><BOT><TERRORIST>" blinded for 4.69 by "Seth<10><BOT><CT>" from flashbang entindex 363 
+L 03/24/2026 - 03:30:58: "Brad<7><BOT><TERRORIST>" blinded for 5.03 by "Seth<10><BOT><CT>" from flashbang entindex 363 
+L 03/24/2026 - 03:30:58: "Seth<10><BOT><CT>" blinded for 4.68 by "Seth<10><BOT><CT>" from flashbang entindex 363 
+L 03/24/2026 - 03:30:58: "Troy<11><BOT><CT>" blinded for 4.94 by "Seth<10><BOT><CT>" from flashbang entindex 363 
+L 03/24/2026 - 03:30:58: "Jim<12><BOT><CT>" blinded for 2.08 by "Seth<10><BOT><CT>" from flashbang entindex 363 
+L 03/24/2026 - 03:31:00: "Chad<5><BOT><TERRORIST>" [607 69 -2] killed "Jim<12><BOT><CT>" [531 169 63] with "ak47"
+L 03/24/2026 - 03:31:00: "Seth<10><BOT><CT>" flash-assisted killing "Jim<12><BOT><CT>"
+L 03/24/2026 - 03:31:07: "Chad<5><BOT><TERRORIST>" [658 814 0] killed "Troy<11><BOT><CT>" [683 765 65] with "ak47" (throughsmoke)
+L 03/24/2026 - 03:31:08: "Dan<4><BOT><TERRORIST>" threw flashbang [1071 420 399] flashbang entindex 356)
+L 03/24/2026 - 03:31:08: "YurDu<2><STEAM_1:0:90764598><CT>" blinded for 3.37 by "Dan<4><BOT><TERRORIST>" from flashbang entindex 356 
+L 03/24/2026 - 03:31:08: "Dan<4><BOT><TERRORIST>" blinded for 0.55 by "Dan<4><BOT><TERRORIST>" from flashbang entindex 356 
+L 03/24/2026 - 03:31:08: "Tony<9><BOT><CT>" blinded for 1.56 by "Dan<4><BOT><TERRORIST>" from flashbang entindex 356 
+L 03/24/2026 - 03:31:08: "Jim<12><BOT><CT>" blinded for 3.37 by "Dan<4><BOT><TERRORIST>" from flashbang entindex 356 
+L 03/24/2026 - 03:31:10: "Seth<10><BOT><CT>" [650 796 0] killed "Chad<5><BOT><TERRORIST>" [867 972 64] with "m4a1"
+L 03/24/2026 - 03:31:17: "Ivan<3><BOT><TERRORIST>" [621 749 1] killed "YurDu<2><STEAM_1:0:90764598><CT>" [1245 1148 54] with "ak47"
+L 03/24/2026 - 03:31:19: "Ivan<3><BOT><TERRORIST>" [710 965 -0] killed "Seth<10><BOT><CT>" [1414 1277 53] with "ak47"
+L 03/24/2026 - 03:31:19: "Chad<5><BOT><TERRORIST>" assisted killing "Seth<10><BOT><CT>"
+L 03/24/2026 - 03:31:45: "Dan<4><BOT><TERRORIST>" triggered "Dropped_The_Bomb"
+L 03/24/2026 - 03:31:45: "Tony<9><BOT><CT>" [1284 1885 1] killed "Dan<4><BOT><TERRORIST>" [1331 2780 183] with "m4a1"
+L 03/24/2026 - 03:31:47: "Brad<7><BOT><TERRORIST>" [1297 2806 127] killed "Tony<9><BOT><CT>" [1279 1885 66] with "ak47"
+L 03/24/2026 - 03:31:47: Team "TERRORIST" triggered "SFUI_Notice_Terrorists_Win" (CT "1") (T "1")
+L 03/24/2026 - 03:31:47: Team "CT" scored "1" with "5" players
+L 03/24/2026 - 03:31:47: Team "TERRORIST" scored "1" with "5" players
+L 03/24/2026 - 03:31:47: MatchStatus: Team playing "CT": Lilmix
+L 03/24/2026 - 03:31:47: MatchStatus: Team playing "TERRORIST": Sangal Esports
+L 03/24/2026 - 03:31:47: MatchStatus: Score: 1:1 on map "de_dust2" RoundsPlayed: 2
+L 03/24/2026 - 03:31:47: World triggered "Round_End"
+L 03/24/2026 - 03:31:49: "Brad<7><BOT><TERRORIST>" triggered "Got_The_Bomb"
+L 03/24/2026 - 03:31:54: Starting Freeze period
+L 03/24/2026 - 03:31:54: "Chad<5><BOT><TERRORIST>" triggered "Got_The_Bomb"
+L 03/24/2026 - 03:31:54: MatchStatus: Team playing "CT": Lilmix
+L 03/24/2026 - 03:31:54: MatchStatus: Team playing "TERRORIST": Sangal Esports
+L 03/24/2026 - 03:31:54: MatchStatus: Score: 1:1 on map "de_dust2" RoundsPlayed: 2
+L 03/24/2026 - 03:31:54: "Tony<9><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:31:54: "Troy<11><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:31:54: "Chad<5><BOT><TERRORIST>" purchased "ak47"
+L 03/24/2026 - 03:31:54: "Chad<5><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 03/24/2026 - 03:31:54: "Brad<7><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:31:54: "Seth<10><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:31:54: "Jim<12><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:31:54: "Chet<6><BOT><TERRORIST>" purchased "molotov"
+L 03/24/2026 - 03:31:54: "Tony<9><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:31:54: "Troy<11><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:31:54: "Ivan<3><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 03/24/2026 - 03:31:54: "Ivan<3><BOT><TERRORIST>" purchased "hegrenade"
+L 03/24/2026 - 03:31:54: "Seth<10><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:31:54: "Jim<12><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:31:54: "Tony<9><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:31:54: "Troy<11><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:31:54: "Seth<10><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:31:54: "Jim<12><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:31:54: "Tony<9><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:31:54: "Troy<11><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:31:54: "Seth<10><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:31:54: "Jim<12><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:31:54: "Tony<9><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:31:54: "Troy<11><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:31:54: "Seth<10><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:31:54: "Jim<12><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:31:54: "Tony<9><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:31:54: "Troy<11><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:31:54: "Seth<10><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:31:54: "Jim<12><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:31:54: "Dan<4><BOT><TERRORIST>" purchased "ak47"
+L 03/24/2026 - 03:31:54: "Dan<4><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 03/24/2026 - 03:31:54: "Dan<4><BOT><TERRORIST>" purchased "flashbang"
+L 03/24/2026 - 03:31:54: "Tony<9><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:31:54: "Tony<9><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:31:54: "Tony<9><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:31:54: "Tony<9><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:31:54: "Tony<9><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:31:54: "Troy<11><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:31:54: "Troy<11><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:31:54: "Troy<11><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:31:54: "Troy<11><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:31:54: "Troy<11><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:31:54: "Seth<10><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:31:54: "Seth<10><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:31:54: "Seth<10><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:31:54: "Seth<10><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:31:54: "Jim<12><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:31:54: "Jim<12><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:31:54: "Jim<12><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:31:54: "Jim<12><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:32:01: "Ivan<3><BOT><TERRORIST>" purchased "smokegrenade"
+L 03/24/2026 - 03:32:01: "Ivan<3><BOT><TERRORIST>" purchased "flashbang"
+L 03/24/2026 - 03:32:01: "Ivan<3><BOT><TERRORIST>" purchased "flashbang"
+L 03/24/2026 - 03:32:01: "Chad<5><BOT><TERRORIST>" purchased "flashbang"
+L 03/24/2026 - 03:32:01: "Chet<6><BOT><TERRORIST>" purchased "smokegrenade"
+L 03/24/2026 - 03:32:01: "Chet<6><BOT><TERRORIST>" purchased "flashbang"
+L 03/24/2026 - 03:32:01: "Chet<6><BOT><TERRORIST>" purchased "flashbang"
+L 03/24/2026 - 03:32:01: "Brad<7><BOT><TERRORIST>" purchased "smokegrenade"
+L 03/24/2026 - 03:32:01: "Brad<7><BOT><TERRORIST>" purchased "flashbang"
+L 03/24/2026 - 03:32:01: "Brad<7><BOT><TERRORIST>" purchased "flashbang"
+L 03/24/2026 - 03:32:02: World triggered "Round_Start"
+L 03/24/2026 - 03:32:03: "YurDu<2><STEAM_1:0:90764598><CT>" purchased "deagle"
+L 03/24/2026 - 03:32:11: "Brad<7><BOT><TERRORIST>" threw smokegrenade [1301 1118 -2]
+L 03/24/2026 - 03:32:12: "Chet<6><BOT><TERRORIST>" threw smokegrenade [-287 1458 -27]
+L 03/24/2026 - 03:32:13: "Chad<5><BOT><TERRORIST>" threw flashbang [1100 433 366] flashbang entindex 355)
+L 03/24/2026 - 03:32:15: "Brad<7><BOT><TERRORIST>" threw flashbang [1071 420 399] flashbang entindex 353)
+L 03/24/2026 - 03:32:15: "Chet<6><BOT><TERRORIST>" blinded for 0.23 by "Brad<7><BOT><TERRORIST>" from flashbang entindex 353 
+L 03/24/2026 - 03:32:15: "Brad<7><BOT><TERRORIST>" blinded for 0.56 by "Brad<7><BOT><TERRORIST>" from flashbang entindex 353 
+L 03/24/2026 - 03:32:16: "Ivan<3><BOT><TERRORIST>" threw hegrenade [-1095 1229 -61]
+L 03/24/2026 - 03:32:16: "Ivan<3><BOT><TERRORIST>" [-1702 1043 31] killed "Seth<10><BOT><CT>" [-1162 1191 96] with "hegrenade"
+L 03/24/2026 - 03:32:20: "Chet<6><BOT><TERRORIST>" threw flashbang [1069 538 448] flashbang entindex 355)
+L 03/24/2026 - 03:32:20: "Chet<6><BOT><TERRORIST>" blinded for 0.40 by "Chet<6><BOT><TERRORIST>" from flashbang entindex 355 
+L 03/24/2026 - 03:32:24: "Ivan<3><BOT><TERRORIST>" threw flashbang [-1836 1985 105] flashbang entindex 354)
+L 03/24/2026 - 03:32:24: "YurDu<2><STEAM_1:0:90764598><CT>" blinded for 4.64 by "Ivan<3><BOT><TERRORIST>" from flashbang entindex 354 
+L 03/24/2026 - 03:32:24: "Tony<9><BOT><CT>" blinded for 4.20 by "Ivan<3><BOT><TERRORIST>" from flashbang entindex 354 
+L 03/24/2026 - 03:32:24: "Seth<10><BOT><CT>" blinded for 3.81 by "Ivan<3><BOT><TERRORIST>" from flashbang entindex 354 
+L 03/24/2026 - 03:32:24: "Troy<11><BOT><CT>" blinded for 1.53 by "Ivan<3><BOT><TERRORIST>" from flashbang entindex 354 
+L 03/24/2026 - 03:32:24: "Jim<12><BOT><CT>" blinded for 2.74 by "Ivan<3><BOT><TERRORIST>" from flashbang entindex 354 
+L 03/24/2026 - 03:32:28: "Ivan<3><BOT><TERRORIST>" threw flashbang [-2191 2174 115] flashbang entindex 354)
+L 03/24/2026 - 03:32:28: "YurDu<2><STEAM_1:0:90764598><CT>" blinded for 3.96 by "Ivan<3><BOT><TERRORIST>" from flashbang entindex 354 
+L 03/24/2026 - 03:32:28: "Dan<4><BOT><TERRORIST>" blinded for 0.10 by "Ivan<3><BOT><TERRORIST>" from flashbang entindex 354 
+L 03/24/2026 - 03:32:28: "Tony<9><BOT><CT>" blinded for 3.81 by "Ivan<3><BOT><TERRORIST>" from flashbang entindex 354 
+L 03/24/2026 - 03:32:28: "Seth<10><BOT><CT>" blinded for 3.60 by "Ivan<3><BOT><TERRORIST>" from flashbang entindex 354 
+L 03/24/2026 - 03:32:28: "Troy<11><BOT><CT>" blinded for 0.72 by "Ivan<3><BOT><TERRORIST>" from flashbang entindex 354 
+L 03/24/2026 - 03:32:29: "Dan<4><BOT><TERRORIST>" threw flashbang [-2182 1879 689] flashbang entindex 355)
+L 03/24/2026 - 03:32:29: "YurDu<2><STEAM_1:0:90764598><CT>" blinded for 3.74 by "Dan<4><BOT><TERRORIST>" from flashbang entindex 355 
+L 03/24/2026 - 03:32:29: "Tony<9><BOT><CT>" blinded for 3.37 by "Dan<4><BOT><TERRORIST>" from flashbang entindex 355 
+L 03/24/2026 - 03:32:29: "Seth<10><BOT><CT>" blinded for 3.16 by "Dan<4><BOT><TERRORIST>" from flashbang entindex 355 
+L 03/24/2026 - 03:32:29: "Troy<11><BOT><CT>" blinded for 0.62 by "Dan<4><BOT><TERRORIST>" from flashbang entindex 355 
+L 03/24/2026 - 03:32:29: "Jim<12><BOT><CT>" blinded for 2.17 by "Dan<4><BOT><TERRORIST>" from flashbang entindex 355 
+L 03/24/2026 - 03:32:29: "Brad<7><BOT><TERRORIST>" threw flashbang [-445 1679 -116] flashbang entindex 356)
+L 03/24/2026 - 03:32:29: "Brad<7><BOT><TERRORIST>" blinded for 4.67 by "Brad<7><BOT><TERRORIST>" from flashbang entindex 356 
+L 03/24/2026 - 03:32:36: "Chet<6><BOT><TERRORIST>" threw flashbang [245 1506 290] flashbang entindex 349)
+L 03/24/2026 - 03:32:36: "Ivan<3><BOT><TERRORIST>" blinded for 0.78 by "Chet<6><BOT><TERRORIST>" from flashbang entindex 349 
+L 03/24/2026 - 03:32:36: "Dan<4><BOT><TERRORIST>" blinded for 3.59 by "Chet<6><BOT><TERRORIST>" from flashbang entindex 349 
+L 03/24/2026 - 03:32:36: "Chet<6><BOT><TERRORIST>" blinded for 1.49 by "Chet<6><BOT><TERRORIST>" from flashbang entindex 349 
+L 03/24/2026 - 03:32:38: "Chad<5><BOT><TERRORIST>" triggered "Bomb_Begin_Plant" at bombsite A
+L 03/24/2026 - 03:32:41: "Chad<5><BOT><TERRORIST>" triggered "Planted_The_Bomb" at bombsite A
+L 03/24/2026 - 03:32:45: "Ivan<3><BOT><TERRORIST>" threw smokegrenade [-220 2142 -125]
+L 03/24/2026 - 03:32:47: "Chet<6><BOT><TERRORIST>" [-570 2063 -118] killed "Troy<11><BOT><CT>" [-1082 2439 80] with "ak47"
+L 03/24/2026 - 03:32:49: "Dan<4><BOT><TERRORIST>" [-620 2355 -109] killed "Tony<9><BOT><CT>" [-1080 2174 54] with "ak47"
+L 03/24/2026 - 03:32:49: "Ivan<3><BOT><TERRORIST>" assisted killing "Tony<9><BOT><CT>"
+L 03/24/2026 - 03:32:51: "Dan<4><BOT><TERRORIST>" [-825 2259 -98] killed "Jim<12><BOT><CT>" [-1320 2213 66] with "ak47"
+L 03/24/2026 - 03:32:51: "Chet<6><BOT><TERRORIST>" assisted killing "Jim<12><BOT><CT>"
+L 03/24/2026 - 03:32:53: "YurDu<2><STEAM_1:0:90764598><CT>" [-1397 2713 125] killed "Dan<4><BOT><TERRORIST>" [-751 2422 -26] with "deagle"
+L 03/24/2026 - 03:32:55: "YurDu<2><STEAM_1:0:90764598><CT>" [-1404 2702 125] killed "Ivan<3><BOT><TERRORIST>" [-402 2199 -60] with "deagle" (headshot)
+L 03/24/2026 - 03:32:55: "Seth<10><BOT><CT>" assisted killing "Ivan<3><BOT><TERRORIST>"
+L 03/24/2026 - 03:32:56: "YurDu<2><STEAM_1:0:90764598><CT>" [-1401 2707 125] killed "Chet<6><BOT><TERRORIST>" [-561 2146 -56] with "deagle" (headshot)
+L 03/24/2026 - 03:33:16: "YurDu<2><STEAM_1:0:90764598><CT>" [1402 2443 35] killed "Brad<7><BOT><TERRORIST>" [1132 2900 192] with "ak47" (headshot)
+L 03/24/2026 - 03:33:21: "Chad<5><BOT><TERRORIST>" [475 2604 95] killed "YurDu<2><STEAM_1:0:90764598><CT>" [1222 2680 162] with "ak47"
+L 03/24/2026 - 03:33:21: Team "TERRORIST" triggered "SFUI_Notice_Terrorists_Win" (CT "1") (T "2")
+L 03/24/2026 - 03:33:21: Team "CT" scored "1" with "5" players
+L 03/24/2026 - 03:33:21: Team "TERRORIST" scored "2" with "5" players
+L 03/24/2026 - 03:33:21: MatchStatus: Team playing "CT": Lilmix
+L 03/24/2026 - 03:33:21: MatchStatus: Team playing "TERRORIST": Sangal Esports
+L 03/24/2026 - 03:33:21: MatchStatus: Score: 1:2 on map "de_dust2" RoundsPlayed: 3
+L 03/24/2026 - 03:33:21: World triggered "Round_End"
+L 03/24/2026 - 03:33:22: "Chad<5><BOT><TERRORIST>" [471 2552 159] was killed by the bomb.
+L 03/24/2026 - 03:33:22: "Chad<5><BOT><TERRORIST>" [471 2552 159] committed suicide with "world"
+L 03/24/2026 - 03:33:28: Starting Freeze period
+L 03/24/2026 - 03:33:29: "Brad<7><BOT><TERRORIST>" triggered "Got_The_Bomb"
+L 03/24/2026 - 03:33:29: MatchStatus: Team playing "CT": Lilmix
+L 03/24/2026 - 03:33:29: MatchStatus: Team playing "TERRORIST": Sangal Esports
+L 03/24/2026 - 03:33:29: MatchStatus: Score: 1:2 on map "de_dust2" RoundsPlayed: 3
+L 03/24/2026 - 03:33:29: "Chet<6><BOT><TERRORIST>" purchased "ak47"
+L 03/24/2026 - 03:33:29: "Chet<6><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 03/24/2026 - 03:33:29: "Chet<6><BOT><TERRORIST>" purchased "smokegrenade"
+L 03/24/2026 - 03:33:29: "Tony<9><BOT><CT>" purchased "m4a1"
+L 03/24/2026 - 03:33:29: "Tony<9><BOT><CT>" purchased "item_kevlar"
+L 03/24/2026 - 03:33:29: "Troy<11><BOT><CT>" purchased "m4a1"
+L 03/24/2026 - 03:33:29: "Troy<11><BOT><CT>" purchased "smokegrenade"
+L 03/24/2026 - 03:33:29: "Ivan<3><BOT><TERRORIST>" purchased "ak47"
+L 03/24/2026 - 03:33:29: "Ivan<3><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 03/24/2026 - 03:33:29: "Ivan<3><BOT><TERRORIST>" purchased "smokegrenade"
+L 03/24/2026 - 03:33:29: "Chad<5><BOT><TERRORIST>" purchased "ak47"
+L 03/24/2026 - 03:33:29: "Chad<5><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 03/24/2026 - 03:33:29: "Brad<7><BOT><TERRORIST>" purchased "ak47"
+L 03/24/2026 - 03:33:29: "Brad<7><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 03/24/2026 - 03:33:29: "Brad<7><BOT><TERRORIST>" purchased "p250"
+L 03/24/2026 - 03:33:29: "Brad<7><BOT><TERRORIST>" purchased "molotov"
+L 03/24/2026 - 03:33:29: "Seth<10><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:33:29: "Jim<12><BOT><CT>" purchased "aug"
+L 03/24/2026 - 03:33:29: "Dan<4><BOT><TERRORIST>" purchased "ak47"
+L 03/24/2026 - 03:33:29: "Dan<4><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 03/24/2026 - 03:33:29: "YurDu<2><STEAM_1:0:90764598><CT>" say "!ws"
+L 03/24/2026 - 03:33:30: "Seth<10><BOT><CT>" purchased "item_defuser"
+L 03/24/2026 - 03:33:33: "YurDu<2><STEAM_1:0:90764598><CT>" say "!skins"
+L 03/24/2026 - 03:33:35: "Ivan<3><BOT><TERRORIST>" purchased "flashbang"
+L 03/24/2026 - 03:33:35: "Ivan<3><BOT><TERRORIST>" purchased "flashbang"
+L 03/24/2026 - 03:33:35: "Ivan<3><BOT><TERRORIST>" purchased "molotov"
+L 03/24/2026 - 03:33:35: "Dan<4><BOT><TERRORIST>" purchased "smokegrenade"
+L 03/24/2026 - 03:33:35: "Chad<5><BOT><TERRORIST>" purchased "flashbang"
+L 03/24/2026 - 03:33:35: "Chet<6><BOT><TERRORIST>" purchased "flashbang"
+L 03/24/2026 - 03:33:35: "Chet<6><BOT><TERRORIST>" purchased "flashbang"
+L 03/24/2026 - 03:33:35: "Chet<6><BOT><TERRORIST>" purchased "molotov"
+L 03/24/2026 - 03:33:35: "Brad<7><BOT><TERRORIST>" purchased "smokegrenade"
+L 03/24/2026 - 03:33:35: "Brad<7><BOT><TERRORIST>" purchased "flashbang"
+L 03/24/2026 - 03:33:35: "Brad<7><BOT><TERRORIST>" purchased "flashbang"
+L 03/24/2026 - 03:33:36: World triggered "Round_Start"
+L 03/24/2026 - 03:33:38: "YurDu<2><STEAM_1:0:90764598><CT>" purchased "deagle"
+L 03/24/2026 - 03:33:40: "YurDu<2><STEAM_1:0:90764598><CT>" purchased "item_kevlar"
+L 03/24/2026 - 03:33:46: "Chet<6><BOT><TERRORIST>" threw smokegrenade [-287 1458 -27]
+L 03/24/2026 - 03:33:46: "Ivan<3><BOT><TERRORIST>" threw smokegrenade [1301 1118 -2]
+L 03/24/2026 - 03:33:46: "Chad<5><BOT><TERRORIST>" threw flashbang [1100 433 366] flashbang entindex 363)
+L 03/24/2026 - 03:33:48: "Brad<7><BOT><TERRORIST>" threw flashbang [1071 420 399] flashbang entindex 372)
+L 03/24/2026 - 03:33:48: "Brad<7><BOT><TERRORIST>" blinded for 0.58 by "Brad<7><BOT><TERRORIST>" from flashbang entindex 372 
+L 03/24/2026 - 03:33:51: "Chet<6><BOT><TERRORIST>" threw flashbang [1069 538 448] flashbang entindex 357)
+L 03/24/2026 - 03:33:51: "Chet<6><BOT><TERRORIST>" blinded for 0.39 by "Chet<6><BOT><TERRORIST>" from flashbang entindex 357 
+L 03/24/2026 - 03:33:55: Molotov projectile spawned at 859.734497 802.857788 141.499039, velocity 400.990295 541.542236 295.941956
+L 03/24/2026 - 03:33:57: "Ivan<3><BOT><TERRORIST>" threw molotov [1674 1903 82]
+L 03/24/2026 - 03:34:03: "Brad<7><BOT><TERRORIST>" threw smokegrenade [1196 2165 3]
+L 03/24/2026 - 03:34:08: "Ivan<3><BOT><TERRORIST>" [854 2107 -32] killed "Troy<11><BOT><CT>" [804 2370 35] with "ak47"
+L 03/24/2026 - 03:34:09: "Brad<7><BOT><TERRORIST>" [1406 2527 54] killed "Tony<9><BOT><CT>" [1051 3060 177] with "ak47"
+L 03/24/2026 - 03:34:12: "YurDu<2><STEAM_1:0:90764598><CT>" [-457 2252 -118] killed "Ivan<3><BOT><TERRORIST>" [392 2093 -62] with "deagle"
+L 03/24/2026 - 03:34:12: "Troy<11><BOT><CT>" assisted killing "Ivan<3><BOT><TERRORIST>"
+L 03/24/2026 - 03:34:20: "Dan<4><BOT><TERRORIST>" [-458 2128 -127] killed "YurDu<2><STEAM_1:0:90764598><CT>" [-421 2414 -46] with "ak47"
+L 03/24/2026 - 03:34:22: "Brad<7><BOT><TERRORIST>" triggered "Bomb_Begin_Plant" at bombsite A
+L 03/24/2026 - 03:34:25: "Brad<7><BOT><TERRORIST>" triggered "Planted_The_Bomb" at bombsite A
+L 03/24/2026 - 03:34:26: "Chad<5><BOT><TERRORIST>" [-445 1481 -126] killed "Jim<12><BOT><CT>" [-954 1380 -48] with "ak47"
+L 03/24/2026 - 03:34:26: "Seth<10><BOT><CT>" [-1789 2135 -2] killed "Dan<4><BOT><TERRORIST>" [-1448 2332 64] with "aug"
+L 03/24/2026 - 03:34:26: "YurDu<2><STEAM_1:0:90764598><CT>" assisted killing "Dan<4><BOT><TERRORIST>"
+L 03/24/2026 - 03:34:34: "Chad<5><BOT><TERRORIST>" [-801 2173 -108] killed "Seth<10><BOT><CT>" [-1165 2251 66] with "ak47"
+L 03/24/2026 - 03:34:34: Team "TERRORIST" triggered "SFUI_Notice_Terrorists_Win" (CT "1") (T "3")
+L 03/24/2026 - 03:34:34: Team "CT" scored "1" with "5" players
+L 03/24/2026 - 03:34:34: Team "TERRORIST" scored "3" with "5" players
+L 03/24/2026 - 03:34:34: MatchStatus: Team playing "CT": Lilmix
+L 03/24/2026 - 03:34:35: MatchStatus: Team playing "TERRORIST": Sangal Esports
+L 03/24/2026 - 03:34:35: MatchStatus: Score: 1:3 on map "de_dust2" RoundsPlayed: 4
+L 03/24/2026 - 03:34:35: World triggered "Round_End"
+L 03/24/2026 - 03:34:41: Starting Freeze period
+L 03/24/2026 - 03:34:42: "Ivan<3><BOT><TERRORIST>" triggered "Got_The_Bomb"
+L 03/24/2026 - 03:34:42: MatchStatus: Team playing "CT": Lilmix
+L 03/24/2026 - 03:34:42: MatchStatus: Team playing "TERRORIST": Sangal Esports
+L 03/24/2026 - 03:34:42: MatchStatus: Score: 1:3 on map "de_dust2" RoundsPlayed: 4
+L 03/24/2026 - 03:34:42: "Ivan<3><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 03/24/2026 - 03:34:42: "Dan<4><BOT><TERRORIST>" purchased "tec9"
+L 03/24/2026 - 03:34:42: "Ivan<3><BOT><TERRORIST>" purchased "ak47"
+L 03/24/2026 - 03:34:42: "Ivan<3><BOT><TERRORIST>" purchased "hegrenade"
+L 03/24/2026 - 03:34:42: "Chad<5><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:34:42: "Chad<5><BOT><TERRORIST>" purchased "deagle"
+L 03/24/2026 - 03:34:42: "Chad<5><BOT><TERRORIST>" purchased "flashbang"
+L 03/24/2026 - 03:34:42: "Brad<7><BOT><TERRORIST>" purchased "item_kevlar"
+L 03/24/2026 - 03:34:42: "Dan<4><BOT><TERRORIST>" purchased "ak47"
+L 03/24/2026 - 03:34:42: "Tony<9><BOT><CT>" purchased "item_assaultsuit"
+L 03/24/2026 - 03:34:42: "Tony<9><BOT><CT>" purchased "hegrenade"
+L 03/24/2026 - 03:34:42: "Troy<11><BOT><CT>" purchased "item_assaultsuit"
+L 03/24/2026 - 03:34:42: "Troy<11><BOT><CT>" purchased "hegrenade"
+L 03/24/2026 - 03:34:42: "Seth<10><BOT><CT>" purchased "item_assaultsuit"
+L 03/24/2026 - 03:34:42: "Seth<10><BOT><CT>" purchased "deagle"
+L 03/24/2026 - 03:34:42: "Seth<10><BOT><CT>" purchased "smokegrenade"
+L 03/24/2026 - 03:34:42: "Jim<12><BOT><CT>" purchased "item_assaultsuit"
+L 03/24/2026 - 03:34:42: "Jim<12><BOT><CT>" purchased "flashbang"
+L 03/24/2026 - 03:34:48: "Ivan<3><BOT><TERRORIST>" purchased "smokegrenade"
+L 03/24/2026 - 03:34:48: "Ivan<3><BOT><TERRORIST>" purchased "flashbang"
+L 03/24/2026 - 03:34:48: "Ivan<3><BOT><TERRORIST>" purchased "flashbang"
+L 03/24/2026 - 03:34:48: "Dan<4><BOT><TERRORIST>" purchased "smokegrenade"
+L 03/24/2026 - 03:34:48: "Chad<5><BOT><TERRORIST>" purchased "smokegrenade"
+L 03/24/2026 - 03:34:48: "Chad<5><BOT><TERRORIST>" purchased "flashbang"
+L 03/24/2026 - 03:34:48: "Chad<5><BOT><TERRORIST>" purchased "hegrenade"
+L 03/24/2026 - 03:34:48: "Chet<6><BOT><TERRORIST>" purchased "smokegrenade"
+L 03/24/2026 - 03:34:48: "Chet<6><BOT><TERRORIST>" purchased "flashbang"
+L 03/24/2026 - 03:34:48: "Brad<7><BOT><TERRORIST>" purchased "flashbang"
+L 03/24/2026 - 03:34:49: "YurDu<2><STEAM_1:0:90764598><CT>" purchased "m4a1"
+L 03/24/2026 - 03:34:49: "YurDu<2><STEAM_1:0:90764598><CT>" purchased "flashbang"
+L 03/24/2026 - 03:34:49: World triggered "Round_Start"
+L 03/24/2026 - 03:34:50: "Seth<10><BOT><CT>" purchased "item_defuser"
+L 03/24/2026 - 03:34:50: "Jim<12><BOT><CT>" purchased "p250"
+L 03/24/2026 - 03:34:50: "YurDu<2><STEAM_1:0:90764598><CT>" purchased "smokegrenade"
+L 03/24/2026 - 03:34:50: "YurDu<2><STEAM_1:0:90764598><CT>" purchased "hegrenade"
+L 03/24/2026 - 03:34:50: "YurDu<2><STEAM_1:0:90764598><CT>" purchased "incgrenade"
+L 03/24/2026 - 03:34:51: "Tony<9><BOT><CT>" purchased "item_defuser"
+L 03/24/2026 - 03:34:51: "Troy<11><BOT><CT>" purchased "item_defuser"
+L 03/24/2026 - 03:34:51: "Jim<12><BOT><CT>" purchased "item_defuser"
+L 03/24/2026 - 03:34:52: "YurDu<2><STEAM_1:0:90764598><CT>" purchased "item_kevlar"
+L 03/24/2026 - 03:34:59: "Jim<12><BOT><CT>" threw flashbang [-560 1451 -111] flashbang entindex 347)
+L 03/24/2026 - 03:34:59: "Jim<12><BOT><CT>" blinded for 0.58 by "Jim<12><BOT><CT>" from flashbang entindex 347 
+L 03/24/2026 - 03:34:59: "Chad<5><BOT><TERRORIST>" threw smokegrenade [-287 1458 -27]
+L 03/24/2026 - 03:35:00: "Ivan<3><BOT><TERRORIST>" threw smokegrenade [1301 1118 -2]
+L 03/24/2026 - 03:35:03: "Ivan<3><BOT><TERRORIST>" threw flashbang [1071 420 399] flashbang entindex 348)
+L 03/24/2026 - 03:35:03: "Ivan<3><BOT><TERRORIST>" blinded for 0.40 by "Ivan<3><BOT><TERRORIST>" from flashbang entindex 348 
+L 03/24/2026 - 03:35:03: "Brad<7><BOT><TERRORIST>" blinded for 0.52 by "Ivan<3><BOT><TERRORIST>" from flashbang entindex 348 
+L 03/24/2026 - 03:35:04: "Brad<7><BOT><TERRORIST>" threw flashbang [1100 433 366] flashbang entindex 355)
+L 03/24/2026 - 03:35:04: Molotov projectile spawned at -1170.577271 2309.288574 77.572418, velocity -790.027588 -505.652802 237.754913
+L 03/24/2026 - 03:35:05: "Dan<4><BOT><TERRORIST>" threw smokegrenade [-558 340 8]
+L 03/24/2026 - 03:35:06: "YurDu<2><STEAM_1:0:90764598><CT>" threw molotov [-2000 1620 33]
+L 03/24/2026 - 03:35:06: "Chet<6><BOT><TERRORIST>" threw flashbang [-2182 1879 689] flashbang entindex 385)
+L 03/24/2026 - 03:35:06: "YurDu<2><STEAM_1:0:90764598><CT>" blinded for 0.17 by "Chet<6><BOT><TERRORIST>" from flashbang entindex 385 
+L 03/24/2026 - 03:35:06: "Troy<11><BOT><CT>" blinded for 3.11 by "Chet<6><BOT><TERRORIST>" from flashbang entindex 385 
+L 03/24/2026 - 03:35:10: "Ivan<3><BOT><TERRORIST>" threw flashbang [1069 538 448] flashbang entindex 348)
+L 03/24/2026 - 03:35:10: "Ivan<3><BOT><TERRORIST>" blinded for 0.57 by "Ivan<3><BOT><TERRORIST>" from flashbang entindex 348 
+L 03/24/2026 - 03:35:11: "Chet<6><BOT><TERRORIST>" threw flashbang [-1836 1985 105] flashbang entindex 349)
+L 03/24/2026 - 03:35:11: "YurDu<2><STEAM_1:0:90764598><CT>" blinded for 0.66 by "Chet<6><BOT><TERRORIST>" from flashbang entindex 349 
+L 03/24/2026 - 03:35:11: "Troy<11><BOT><CT>" blinded for 3.92 by "Chet<6><BOT><TERRORIST>" from flashbang entindex 349 
+L 03/24/2026 - 03:35:14: "YurDu<2><STEAM_1:0:90764598><CT>" threw hegrenade [-1939 1667 93]
+L 03/24/2026 - 03:35:18: "YurDu<2><STEAM_1:0:90764598><CT>" threw smokegrenade [-2089 1876 4]
+L 03/24/2026 - 03:35:19: "Brad<7><BOT><TERRORIST>" threw flashbang [245 1506 290] flashbang entindex 350)
+L 03/24/2026 - 03:35:19: "Dan<4><BOT><TERRORIST>" blinded for 0.13 by "Brad<7><BOT><TERRORIST>" from flashbang entindex 350 
+L 03/24/2026 - 03:35:19: "Chet<6><BOT><TERRORIST>" blinded for 0.78 by "Brad<7><BOT><TERRORIST>" from flashbang entindex 350 
+L 03/24/2026 - 03:35:19: "Brad<7><BOT><TERRORIST>" blinded for 2.64 by "Brad<7><BOT><TERRORIST>" from flashbang entindex 350 
+L 03/24/2026 - 03:35:19: "Chad<5><BOT><TERRORIST>" threw flashbang [-445 1679 -116] flashbang entindex 353)
+L 03/24/2026 - 03:35:19: "Dan<4><BOT><TERRORIST>" blinded for 3.57 by "Chad<5><BOT><TERRORIST>" from flashbang entindex 353 
+L 03/24/2026 - 03:35:19: "Jim<12><BOT><CT>" blinded for 3.52 by "Chad<5><BOT><TERRORIST>" from flashbang entindex 353 
+L 03/24/2026 - 03:35:22: Molotov projectile spawned at -414.715393 1488.116821 -52.185051, velocity -68.507813 512.911255 433.420959
+L 03/24/2026 - 03:35:23: "Chet<6><BOT><TERRORIST>" threw molotov [-475 1214 -109]
+L 03/24/2026 - 03:35:24: "YurDu<2><STEAM_1:0:90764598><CT>" [-1039 2309 -24] killed "Dan<4><BOT><TERRORIST>" [-205 2040 -61] with "m4a1"
+L 03/24/2026 - 03:35:24: "Chad<5><BOT><TERRORIST>" flash-assisted killing "Dan<4><BOT><TERRORIST>"
+L 03/24/2026 - 03:35:25: "YurDu<2><STEAM_1:0:90764598><CT>" [-991 2380 -34] killed "Brad<7><BOT><TERRORIST>" [-455 2115 -63] with "m4a1"
+L 03/24/2026 - 03:35:26: "Jim<12><BOT><CT>" [-292 1764 -107] killed "Chad<5><BOT><TERRORIST>" [-457 1690 -61] with "p250"
+L 03/24/2026 - 03:35:27: "Chet<6><BOT><TERRORIST>" [-389 1397 -62] committed suicide with "inferno"
+L 03/24/2026 - 03:35:27: "Chad<5><BOT><TERRORIST>" threw hegrenade [-552 2070 -105]
+L 03/24/2026 - 03:35:30: "Ivan<3><BOT><TERRORIST>" [1310 2094 -2] killed "Tony<9><BOT><CT>" [770 2196 13] with "ak47"
+L 03/24/2026 - 03:35:34: "Ivan<3><BOT><TERRORIST>" triggered "Dropped_The_Bomb"
+L 03/24/2026 - 03:35:34: "Seth<10><BOT><CT>" [894 2753 101] killed "Ivan<3><BOT><TERRORIST>" [1307 2620 158] with "deagle"
+L 03/24/2026 - 03:35:34: "Tony<9><BOT><CT>" assisted killing "Ivan<3><BOT><TERRORIST>"
+L 03/24/2026 - 03:35:34: Team "CT" triggered "SFUI_Notice_CTs_Win" (CT "2") (T "3")
+L 03/24/2026 - 03:35:34: Team "CT" scored "2" with "5" players
+L 03/24/2026 - 03:35:34: Team "TERRORIST" scored "3" with "5" players
+L 03/24/2026 - 03:35:34: MatchStatus: Team playing "CT": Lilmix
+L 03/24/2026 - 03:35:34: MatchStatus: Team playing "TERRORIST": Sangal Esports
+L 03/24/2026 - 03:35:34: MatchStatus: Score: 2:3 on map "de_dust2" RoundsPlayed: 5
+L 03/24/2026 - 03:35:34: World triggered "Round_End"
+L 03/24/2026 - 03:35:41: Starting Freeze period
+L 03/24/2026 - 03:35:41: "Chet<6><BOT><TERRORIST>" triggered "Got_The_Bomb"
+L 03/24/2026 - 03:35:41: MatchStatus: Team playing "CT": Lilmix
+L 03/24/2026 - 03:35:41: MatchStatus: Team playing "TERRORIST": Sangal Esports
+L 03/24/2026 - 03:35:41: MatchStatus: Score: 2:3 on map "de_dust2" RoundsPlayed: 5
+L 03/24/2026 - 03:35:41: "Chet<6><BOT><TERRORIST>" purchased "ak47"
+L 03/24/2026 - 03:35:41: "Chet<6><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 03/24/2026 - 03:35:41: "Chet<6><BOT><TERRORIST>" purchased "smokegrenade"
+L 03/24/2026 - 03:35:41: "Tony<9><BOT><CT>" purchased "m4a1"
+L 03/24/2026 - 03:35:41: "Tony<9><BOT><CT>" purchased "item_assaultsuit"
+L 03/24/2026 - 03:35:41: "Troy<11><BOT><CT>" purchased "m4a1"
+L 03/24/2026 - 03:35:41: "Chad<5><BOT><TERRORIST>" purchased "ak47"
+L 03/24/2026 - 03:35:41: "Chad<5><BOT><TERRORIST>" purchased "item_kevlar"
+L 03/24/2026 - 03:35:41: "Brad<7><BOT><TERRORIST>" purchased "ak47"
+L 03/24/2026 - 03:35:41: "Brad<7><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 03/24/2026 - 03:35:41: "Brad<7><BOT><TERRORIST>" purchased "p250"
+L 03/24/2026 - 03:35:41: "Brad<7><BOT><TERRORIST>" purchased "molotov"
+L 03/24/2026 - 03:35:41: "Seth<10><BOT><CT>" purchased "m4a1"
+L 03/24/2026 - 03:35:41: "Seth<10><BOT><CT>" purchased "item_kevlar"
+L 03/24/2026 - 03:35:41: "Jim<12><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:35:41: "Jim<12><BOT><CT>" purchased "item_kevlar"
+L 03/24/2026 - 03:35:41: "Dan<4><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 03/24/2026 - 03:35:41: "Dan<4><BOT><TERRORIST>" purchased "molotov"
+L 03/24/2026 - 03:35:41: "Ivan<3><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 03/24/2026 - 03:35:41: "Ivan<3><BOT><TERRORIST>" purchased "p250"
+L 03/24/2026 - 03:35:41: "Ivan<3><BOT><TERRORIST>" purchased "smokegrenade"
+L 03/24/2026 - 03:35:43: "YurDu<2><STEAM_1:0:90764598><CT>" purchased "incgrenade"
+L 03/24/2026 - 03:35:43: "YurDu<2><STEAM_1:0:90764598><CT>" purchased "smokegrenade"
+L 03/24/2026 - 03:35:44: "YurDu<2><STEAM_1:0:90764598><CT>" purchased "hegrenade"
+L 03/24/2026 - 03:35:44: "Brad<7><BOT><TERRORIST>" purchased "mac10"
+L 03/24/2026 - 03:35:44: "Chet<6><BOT><TERRORIST>" purchased "mac10"
+L 03/24/2026 - 03:35:47: "YurDu<2><STEAM_1:0:90764598><CT>" purchased "item_assaultsuit"
+L 03/24/2026 - 03:35:47: "YurDu<2><STEAM_1:0:90764598><CT>" purchased "item_defuser"
+L 03/24/2026 - 03:35:48: "Ivan<3><BOT><TERRORIST>" purchased "flashbang"
+L 03/24/2026 - 03:35:48: "Chad<5><BOT><TERRORIST>" purchased "flashbang"
+L 03/24/2026 - 03:35:48: "Seth<10><BOT><CT>" purchased "flashbang"
+L 03/24/2026 - 03:35:48: "Seth<10><BOT><CT>" purchased "flashbang"
+L 03/24/2026 - 03:35:48: "Troy<11><BOT><CT>" purchased "smokegrenade"
+L 03/24/2026 - 03:35:48: "Troy<11><BOT><CT>" purchased "flashbang"
+L 03/24/2026 - 03:35:48: "Troy<11><BOT><CT>" purchased "flashbang"
+L 03/24/2026 - 03:35:48: "Jim<12><BOT><CT>" purchased "flashbang"
+L 03/24/2026 - 03:35:48: "Jim<12><BOT><CT>" purchased "hegrenade"
+L 03/24/2026 - 03:35:49: World triggered "Round_Start"
+L 03/24/2026 - 03:35:55: Molotov projectile spawned at -412.987305 -283.372742 66.677635, velocity -1.041714 669.781006 83.769646
+L 03/24/2026 - 03:35:56: "Brad<7><BOT><TERRORIST>" threw molotov [-414 364 -2]
+L 03/24/2026 - 03:35:57: "YurDu<2><STEAM_1:0:90764598><CT>" [-416 2423 -90] killed "Brad<7><BOT><TERRORIST>" [-416 -222 64] with "ak47"
+L 03/24/2026 - 03:35:57: "Jim<12><BOT><CT>" threw flashbang [1369 1293 461] flashbang entindex 389)
+L 03/24/2026 - 03:35:57: "Seth<10><BOT><CT>" blinded for 1.05 by "Jim<12><BOT><CT>" from flashbang entindex 389 
+L 03/24/2026 - 03:35:57: "Troy<11><BOT><CT>" blinded for 1.06 by "Jim<12><BOT><CT>" from flashbang entindex 389 
+L 03/24/2026 - 03:35:57: "Jim<12><BOT><CT>" blinded for 0.26 by "Jim<12><BOT><CT>" from flashbang entindex 389 
+L 03/24/2026 - 03:35:58: "Chad<5><BOT><TERRORIST>" threw flashbang [1100 433 366] flashbang entindex 399)
+L 03/24/2026 - 03:35:58: "Jim<12><BOT><CT>" blinded for 0.29 by "Chad<5><BOT><TERRORIST>" from flashbang entindex 399 
+L 03/24/2026 - 03:36:00: "Chet<6><BOT><TERRORIST>" threw smokegrenade [-287 1458 -27]
+L 03/24/2026 - 03:36:00: "YurDu<2><STEAM_1:0:90764598><CT>" [-627 2395 -101] killed "Dan<4><BOT><TERRORIST>" [-95 352 64] with "ak47" (headshot throughsmoke)
+L 03/24/2026 - 03:36:04: "Ivan<3><BOT><TERRORIST>" threw smokegrenade [1301 1118 -2]
+L 03/24/2026 - 03:36:04: "Jim<12><BOT><CT>" threw hegrenade [691 517 11]
+L 03/24/2026 - 03:36:09: "Ivan<3><BOT><TERRORIST>" threw flashbang [1071 420 399] flashbang entindex 389)
+L 03/24/2026 - 03:36:09: "Ivan<3><BOT><TERRORIST>" blinded for 0.22 by "Ivan<3><BOT><TERRORIST>" from flashbang entindex 389 
+L 03/24/2026 - 03:36:09: "Dan<4><BOT><TERRORIST>" blinded for 0.85 by "Ivan<3><BOT><TERRORIST>" from flashbang entindex 389 
+L 03/24/2026 - 03:36:09: "Chad<5><BOT><TERRORIST>" blinded for 0.85 by "Ivan<3><BOT><TERRORIST>" from flashbang entindex 389 
+L 03/24/2026 - 03:36:09: "Brad<7><BOT><TERRORIST>" blinded for 0.55 by "Ivan<3><BOT><TERRORIST>" from flashbang entindex 389 
+L 03/24/2026 - 03:36:09: "Jim<12><BOT><CT>" blinded for 2.30 by "Ivan<3><BOT><TERRORIST>" from flashbang entindex 389 
+L 03/24/2026 - 03:36:10: "Jim<12><BOT><CT>" threw flashbang [1258 1227 4] flashbang entindex 391)
+L 03/24/2026 - 03:36:10: "Dan<4><BOT><TERRORIST>" blinded for 1.01 by "Jim<12><BOT><CT>" from flashbang entindex 391 
+L 03/24/2026 - 03:36:10: "Chad<5><BOT><TERRORIST>" blinded for 5.04 by "Jim<12><BOT><CT>" from flashbang entindex 391 
+L 03/24/2026 - 03:36:10: "Jim<12><BOT><CT>" blinded for 1.54 by "Jim<12><BOT><CT>" from flashbang entindex 391 
+L 03/24/2026 - 03:36:10: "YurDu<2><STEAM_1:0:90764598><CT>" threw hegrenade [-344 1748 -6]
+L 03/24/2026 - 03:36:13: Molotov projectile spawned at -677.806641 2372.087402 -4.851768, velocity 322.518768 -914.519775 124.383240
+L 03/24/2026 - 03:36:14: "YurDu<2><STEAM_1:0:90764598><CT>" threw molotov [-442 1249 -116]
+L 03/24/2026 - 03:36:16: Molotov projectile spawned at 777.011841 920.604675 65.298683, velocity 576.928833 345.446686 58.691402
+L 03/24/2026 - 03:36:16: "Chet<6><BOT><TERRORIST>" threw molotov [1261 1210 2]
+L 03/24/2026 - 03:36:21: "YurDu<2><STEAM_1:0:90764598><CT>" threw flashbang [1299 2026 26] flashbang entindex 347)
+L 03/24/2026 - 03:36:21: "YurDu<2><STEAM_1:0:90764598><CT>" blinded for 0.87 by "YurDu<2><STEAM_1:0:90764598><CT>" from flashbang entindex 347 
+L 03/24/2026 - 03:36:21: "Jim<12><BOT><CT>" blinded for 0.62 by "YurDu<2><STEAM_1:0:90764598><CT>" from flashbang entindex 347 
+L 03/24/2026 - 03:36:24: "YurDu<2><STEAM_1:0:90764598><CT>" [1275 2267 12] killed "Chad<5><BOT><TERRORIST>" [1283 1442 65] with "ak47" (headshot)
+L 03/24/2026 - 03:36:34: "YurDu<2><STEAM_1:0:90764598><CT>" [1272 2174 2] killed "Ivan<3><BOT><TERRORIST>" [1495 1842 56] with "ak47" (headshot)
+L 03/24/2026 - 03:36:34: "Chet<6><BOT><TERRORIST>" [1275 1520 2] killed "YurDu<2><STEAM_1:0:90764598><CT>" [1272 2174 48] with "ak47"
+L 03/24/2026 - 03:36:34: "Ivan<3><BOT><TERRORIST>" assisted killing "YurDu<2><STEAM_1:0:90764598><CT>"
+L 03/24/2026 - 03:36:35: "Jim<12><BOT><CT>" threw smokegrenade [-1925 1638 36]
+L 03/24/2026 - 03:36:39: "Chet<6><BOT><TERRORIST>" triggered "Dropped_The_Bomb"
+L 03/24/2026 - 03:36:39: "Seth<10><BOT><CT>" [859 2239 -22] killed "Chet<6><BOT><TERRORIST>" [1438 2011 54] with "m4a1"
+L 03/24/2026 - 03:36:39: Team "CT" triggered "SFUI_Notice_CTs_Win" (CT "3") (T "3")
+L 03/24/2026 - 03:36:39: Team "CT" scored "3" with "5" players
+L 03/24/2026 - 03:36:39: Team "TERRORIST" scored "3" with "5" players
+L 03/24/2026 - 03:36:39: MatchStatus: Team playing "CT": Lilmix
+L 03/24/2026 - 03:36:39: MatchStatus: Team playing "TERRORIST": Sangal Esports
+L 03/24/2026 - 03:36:39: MatchStatus: Score: 3:3 on map "de_dust2" RoundsPlayed: 6
+L 03/24/2026 - 03:36:39: World triggered "Round_End"
+L 03/24/2026 - 03:36:39: "Troy<11><BOT><CT>" threw hegrenade [1126 2129 6]
+L 03/24/2026 - 03:36:46: Starting Freeze period
+L 03/24/2026 - 03:36:46: "Dan<4><BOT><TERRORIST>" triggered "Got_The_Bomb"
+L 03/24/2026 - 03:36:46: MatchStatus: Team playing "CT": Lilmix
+L 03/24/2026 - 03:36:46: MatchStatus: Team playing "TERRORIST": Sangal Esports
+L 03/24/2026 - 03:36:46: MatchStatus: Score: 3:3 on map "de_dust2" RoundsPlayed: 6
+L 03/24/2026 - 03:36:46: "Dan<4><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:36:46: "Chet<6><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:36:46: "Ivan<3><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:36:46: "Chad<5><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:36:46: "Brad<7><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:36:46: "Jim<12><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:36:46: "Jim<12><BOT><CT>" purchased "smokegrenade"
+L 03/24/2026 - 03:36:46: "Dan<4><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:36:46: "Chet<6><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:36:46: "Tony<9><BOT><CT>" purchased "smokegrenade"
+L 03/24/2026 - 03:36:46: "Troy<11><BOT><CT>" purchased "item_kevlar"
+L 03/24/2026 - 03:36:46: "Troy<11><BOT><CT>" purchased "p250"
+L 03/24/2026 - 03:36:46: "Ivan<3><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:36:46: "Chad<5><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:36:46: "Brad<7><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:36:46: "Dan<4><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:36:46: "Chet<6><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:36:46: "Ivan<3><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:36:46: "Chad<5><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:36:46: "Brad<7><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:36:46: "Dan<4><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:36:46: "Chet<6><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:36:46: "Ivan<3><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:36:46: "Chad<5><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:36:46: "Brad<7><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:36:46: "Dan<4><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:36:46: "Chet<6><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:36:46: "Ivan<3><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:36:46: "Chad<5><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:36:46: "Brad<7><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:36:46: "Dan<4><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:36:46: "Chet<6><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:36:46: "Ivan<3><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:36:46: "Chad<5><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:36:46: "Brad<7><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:36:46: "Dan<4><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:36:46: "Dan<4><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:36:46: "Dan<4><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:36:46: "Dan<4><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:36:46: "Chet<6><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:36:46: "Chet<6><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:36:46: "Chet<6><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:36:46: "Chet<6><BOT><TERRORIST>" purchased "deagle"
+L 03/24/2026 - 03:36:46: "Chet<6><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:36:46: "Ivan<3><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:36:46: "Ivan<3><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:36:46: "Ivan<3><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:36:46: "Ivan<3><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:36:46: "Chad<5><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:36:46: "Chad<5><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:36:46: "Chad<5><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:36:46: "Chad<5><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:36:46: "Brad<7><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:36:46: "Brad<7><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:36:46: "Brad<7><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:36:46: "Brad<7><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:36:47: "Tony<9><BOT><CT>" purchased "item_defuser"
+L 03/24/2026 - 03:36:50: "Ivan<3><BOT><TERRORIST>" purchased "p250"
+L 03/24/2026 - 03:36:52: "YurDu<2><STEAM_1:0:90764598><CT>" purchased "awp"
+L 03/24/2026 - 03:36:52: "YurDu<2><STEAM_1:0:90764598><CT>" purchased "item_kevlar"
+L 03/24/2026 - 03:36:53: "Tony<9><BOT><CT>" purchased "flashbang"
+L 03/24/2026 - 03:36:53: "Tony<9><BOT><CT>" purchased "flashbang"
+L 03/24/2026 - 03:36:53: "Tony<9><BOT><CT>" purchased "hegrenade"
+L 03/24/2026 - 03:36:53: "Troy<11><BOT><CT>" purchased "hegrenade"
+L 03/24/2026 - 03:36:53: "Jim<12><BOT><CT>" purchased "flashbang"
+L 03/24/2026 - 03:36:53: "Jim<12><BOT><CT>" purchased "flashbang"
+L 03/24/2026 - 03:36:53: "Jim<12><BOT><CT>" purchased "hegrenade"
+L 03/24/2026 - 03:36:54: World triggered "Round_Start"
+L 03/24/2026 - 03:36:54: "YurDu<2><STEAM_1:0:90764598><CT>" purchased "fiveseven"
+L 03/24/2026 - 03:36:55: "YurDu<2><STEAM_1:0:90764598><CT>" purchased "incgrenade"
+L 03/24/2026 - 03:36:55: "YurDu<2><STEAM_1:0:90764598><CT>" purchased "hegrenade"
+L 03/24/2026 - 03:37:02: "Seth<10><BOT><CT>" threw flashbang [1369 1293 461] flashbang entindex 378)
+L 03/24/2026 - 03:37:02: "Seth<10><BOT><CT>" blinded for 1.55 by "Seth<10><BOT><CT>" from flashbang entindex 378 
+L 03/24/2026 - 03:37:02: "Jim<12><BOT><CT>" blinded for 0.54 by "Seth<10><BOT><CT>" from flashbang entindex 378 
+L 03/24/2026 - 03:37:06: "YurDu<2><STEAM_1:0:90764598><CT>" [-434 2384 -98] killed "Chet<6><BOT><TERRORIST>" [-405 253 46] with "awp"
+L 03/24/2026 - 03:37:08: "Seth<10><BOT><CT>" threw hegrenade [691 517 11]
+L 03/24/2026 - 03:37:11: "Troy<11><BOT><CT>" threw hegrenade [-2026 1181 49]
+L 03/24/2026 - 03:37:17: "Dan<4><BOT><TERRORIST>" triggered "Dropped_The_Bomb"
+L 03/24/2026 - 03:37:17: "YurDu<2><STEAM_1:0:90764598><CT>" [-1175 2252 3] killed "Dan<4><BOT><TERRORIST>" [-629 2176 -56] with "fiveseven" (headshot)
+L 03/24/2026 - 03:37:19: "Seth<10><BOT><CT>" threw smokegrenade [607 723 2]
+L 03/24/2026 - 03:37:26: "Jim<12><BOT><CT>" [719 2530 95] killed "Ivan<3><BOT><TERRORIST>" [273 1794 160] with "ak47"
+L 03/24/2026 - 03:37:26: Molotov projectile spawned at -1314.117310 2216.834229 70.857300, velocity -595.550964 -375.612640 197.487869
+L 03/24/2026 - 03:37:28: "Seth<10><BOT><CT>" [-444 1652 -125] killed "Chad<5><BOT><TERRORIST>" [-350 1425 36] with "m4a1"
+L 03/24/2026 - 03:37:28: "YurDu<2><STEAM_1:0:90764598><CT>" threw molotov [-1969 1707 34]
+L 03/24/2026 - 03:37:28: "Troy<11><BOT><CT>" threw smokegrenade [-1925 1638 36]
+L 03/24/2026 - 03:37:51: "YurDu<2><STEAM_1:0:90764598><CT>" threw hegrenade [-1969 1549 48]
+L 03/24/2026 - 03:38:21: "Brad<7><BOT><TERRORIST>" [-1495 2103 -0] killed "YurDu<2><STEAM_1:0:90764598><CT>" [-1345 2684 176] with "glock" (headshot)
+L 03/24/2026 - 03:38:21: "Dan<4><BOT><TERRORIST>" assisted killing "YurDu<2><STEAM_1:0:90764598><CT>"
+L 03/24/2026 - 03:38:26: "Troy<11><BOT><CT>" threw flashbang [-1359 2179 14] flashbang entindex 354)
+L 03/24/2026 - 03:38:26: "YurDu<2><STEAM_1:0:90764598><CT>" blinded for 0.83 by "Troy<11><BOT><CT>" from flashbang entindex 354 
+L 03/24/2026 - 03:38:26: "Tony<9><BOT><CT>" blinded for 0.83 by "Troy<11><BOT><CT>" from flashbang entindex 354 
+L 03/24/2026 - 03:38:26: "Seth<10><BOT><CT>" blinded for 1.84 by "Troy<11><BOT><CT>" from flashbang entindex 354 
+L 03/24/2026 - 03:38:26: "Troy<11><BOT><CT>" blinded for 4.85 by "Troy<11><BOT><CT>" from flashbang entindex 354 
+L 03/24/2026 - 03:38:31: "Seth<10><BOT><CT>" threw flashbang [-1927 1969 18] flashbang entindex 354)
+L 03/24/2026 - 03:38:31: "Seth<10><BOT><CT>" blinded for 3.60 by "Seth<10><BOT><CT>" from flashbang entindex 354 
+L 03/24/2026 - 03:38:36: "Tony<9><BOT><CT>" threw smokegrenade [-1925 1638 36]
+L 03/24/2026 - 03:38:39: "Seth<10><BOT><CT>" [-1512 2091 -1] killed "Brad<7><BOT><TERRORIST>" [-1996 1863 66] with "m4a1"
+L 03/24/2026 - 03:38:39: "YurDu<2><STEAM_1:0:90764598><CT>" assisted killing "Brad<7><BOT><TERRORIST>"
+L 03/24/2026 - 03:38:39: Team "CT" triggered "SFUI_Notice_CTs_Win" (CT "4") (T "3")
+L 03/24/2026 - 03:38:39: Team "CT" scored "4" with "5" players
+L 03/24/2026 - 03:38:39: Team "TERRORIST" scored "3" with "5" players
+L 03/24/2026 - 03:38:39: MatchStatus: Team playing "CT": Lilmix
+L 03/24/2026 - 03:38:39: MatchStatus: Team playing "TERRORIST": Sangal Esports
+L 03/24/2026 - 03:38:39: MatchStatus: Score: 4:3 on map "de_dust2" RoundsPlayed: 7
+L 03/24/2026 - 03:38:39: World triggered "Round_End"
+L 03/24/2026 - 03:38:46: Starting Freeze period
+L 03/24/2026 - 03:38:46: "Chad<5><BOT><TERRORIST>" triggered "Got_The_Bomb"
+L 03/24/2026 - 03:38:46: MatchStatus: Team playing "CT": Lilmix
+L 03/24/2026 - 03:38:46: MatchStatus: Team playing "TERRORIST": Sangal Esports
+L 03/24/2026 - 03:38:46: MatchStatus: Score: 4:3 on map "de_dust2" RoundsPlayed: 7
+L 03/24/2026 - 03:38:46: "Chet<6><BOT><TERRORIST>" purchased "ak47"
+L 03/24/2026 - 03:38:46: "Chet<6><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 03/24/2026 - 03:38:47: "Chet<6><BOT><TERRORIST>" purchased "p250"
+L 03/24/2026 - 03:38:47: "Ivan<3><BOT><TERRORIST>" purchased "ak47"
+L 03/24/2026 - 03:38:47: "Ivan<3><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 03/24/2026 - 03:38:47: "Ivan<3><BOT><TERRORIST>" purchased "molotov"
+L 03/24/2026 - 03:38:47: "Chad<5><BOT><TERRORIST>" purchased "ak47"
+L 03/24/2026 - 03:38:47: "Chad<5><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 03/24/2026 - 03:38:47: "Chad<5><BOT><TERRORIST>" purchased "flashbang"
+L 03/24/2026 - 03:38:47: "Brad<7><BOT><TERRORIST>" purchased "ak47"
+L 03/24/2026 - 03:38:47: "Brad<7><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 03/24/2026 - 03:38:47: "Brad<7><BOT><TERRORIST>" purchased "p250"
+L 03/24/2026 - 03:38:47: "Brad<7><BOT><TERRORIST>" purchased "flashbang"
+L 03/24/2026 - 03:38:47: "Jim<12><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:38:47: "Jim<12><BOT><CT>" purchased "item_kevlar"
+L 03/24/2026 - 03:38:47: "Tony<9><BOT><CT>" purchased "item_kevlar"
+L 03/24/2026 - 03:38:47: "Seth<10><BOT><CT>" purchased "incgrenade"
+L 03/24/2026 - 03:38:47: "Dan<4><BOT><TERRORIST>" purchased "ak47"
+L 03/24/2026 - 03:38:47: "Dan<4><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 03/24/2026 - 03:38:47: "Dan<4><BOT><TERRORIST>" purchased "smokegrenade"
+L 03/24/2026 - 03:38:53: "Dan<4><BOT><TERRORIST>" purchased "flashbang"
+L 03/24/2026 - 03:38:53: "Chad<5><BOT><TERRORIST>" purchased "smokegrenade"
+L 03/24/2026 - 03:38:53: "Brad<7><BOT><TERRORIST>" purchased "smokegrenade"
+L 03/24/2026 - 03:38:53: "Tony<9><BOT><CT>" purchased "smokegrenade"
+L 03/24/2026 - 03:38:53: "Seth<10><BOT><CT>" purchased "smokegrenade"
+L 03/24/2026 - 03:38:53: "Seth<10><BOT><CT>" purchased "flashbang"
+L 03/24/2026 - 03:38:53: "Seth<10><BOT><CT>" purchased "flashbang"
+L 03/24/2026 - 03:38:53: "Troy<11><BOT><CT>" purchased "smokegrenade"
+L 03/24/2026 - 03:38:53: "Troy<11><BOT><CT>" purchased "flashbang"
+L 03/24/2026 - 03:38:53: "Troy<11><BOT><CT>" purchased "hegrenade"
+L 03/24/2026 - 03:38:54: World triggered "Round_Start"
+L 03/24/2026 - 03:38:55: "YurDu<2><STEAM_1:0:90764598><CT>" purchased "deagle"
+L 03/24/2026 - 03:38:56: "YurDu<2><STEAM_1:0:90764598><CT>" purchased "item_kevlar"
+L 03/24/2026 - 03:39:01: "Troy<11><BOT><CT>" threw smokegrenade [-405 1502 -124]
+L 03/24/2026 - 03:39:03: "Brad<7><BOT><TERRORIST>" threw smokegrenade [1301 1118 -2]
+L 03/24/2026 - 03:39:03: "Chad<5><BOT><TERRORIST>" threw flashbang [1100 433 366] flashbang entindex 367)
+L 03/24/2026 - 03:39:04: "Tony<9><BOT><CT>" threw flashbang [1369 1293 461] flashbang entindex 371)
+L 03/24/2026 - 03:39:04: "Tony<9><BOT><CT>" blinded for 0.26 by "Tony<9><BOT><CT>" from flashbang entindex 371 
+L 03/24/2026 - 03:39:04: "Jim<12><BOT><CT>" blinded for 1.06 by "Tony<9><BOT><CT>" from flashbang entindex 371 
+L 03/24/2026 - 03:39:05: Molotov projectile spawned at -563.020508 335.721802 70.795563, velocity 69.194389 628.713013 -30.294611
+L 03/24/2026 - 03:39:06: "Ivan<3><BOT><TERRORIST>" threw molotov [-526 668 10]
+L 03/24/2026 - 03:39:07: "Dan<4><BOT><TERRORIST>" threw smokegrenade [-287 1458 -27]
+L 03/24/2026 - 03:39:07: "Brad<7><BOT><TERRORIST>" threw flashbang [1071 420 399] flashbang entindex 367)
+L 03/24/2026 - 03:39:07: "Brad<7><BOT><TERRORIST>" blinded for 0.57 by "Brad<7><BOT><TERRORIST>" from flashbang entindex 367 
+L 03/24/2026 - 03:39:08: "Chet<6><BOT><TERRORIST>" [-250 362 -2] killed "Troy<11><BOT><CT>" [-511 898 41] with "ak47"
+L 03/24/2026 - 03:39:09: "Seth<10><BOT><CT>" threw smokegrenade [-1925 1638 36]
+L 03/24/2026 - 03:39:11: "Tony<9><BOT><CT>" threw hegrenade [691 517 11]
+L 03/24/2026 - 03:39:16: "Chad<5><BOT><TERRORIST>" [1122 932 -1] killed "Tony<9><BOT><CT>" [1121 1150 64] with "ak47"
+L 03/24/2026 - 03:39:31: "Chad<5><BOT><TERRORIST>" [1366 2602 78] killed "Jim<12><BOT><CT>" [789 2694 160] with "ak47"
+L 03/24/2026 - 03:39:31: "Brad<7><BOT><TERRORIST>" assisted killing "Jim<12><BOT><CT>"
+L 03/24/2026 - 03:39:33: "Dan<4><BOT><TERRORIST>" threw flashbang [-2182 1879 689] flashbang entindex 354)
+L 03/24/2026 - 03:39:33: "Tony<9><BOT><CT>" blinded for 2.21 by "Dan<4><BOT><TERRORIST>" from flashbang entindex 354 
+L 03/24/2026 - 03:39:33: "Seth<10><BOT><CT>" blinded for 1.26 by "Dan<4><BOT><TERRORIST>" from flashbang entindex 354 
+L 03/24/2026 - 03:39:35: "Chad<5><BOT><TERRORIST>" triggered "Bomb_Begin_Plant" at bombsite A
+L 03/24/2026 - 03:39:38: "YurDu<2><STEAM_1:0:90764598><CT>" [-415 1798 -127] killed "Chet<6><BOT><TERRORIST>" [-380 265 65] with "deagle" (headshot)
+L 03/24/2026 - 03:39:38: "Troy<11><BOT><CT>" assisted killing "Chet<6><BOT><TERRORIST>"
+L 03/24/2026 - 03:39:38: "Chad<5><BOT><TERRORIST>" triggered "Planted_The_Bomb" at bombsite A
+L 03/24/2026 - 03:39:44: "YurDu<2><STEAM_1:0:90764598><CT>" [-420 895 -30] killed "Dan<4><BOT><TERRORIST>" [-471 1416 -55] with "m4a1"
+L 03/24/2026 - 03:39:49: "Ivan<3><BOT><TERRORIST>" [-256 1472 66] killed "YurDu<2><STEAM_1:0:90764598><CT>" [-450 1332 -59] with "ak47"
+L 03/24/2026 - 03:39:52: "Seth<10><BOT><CT>" [-642 2186 -120] killed "Brad<7><BOT><TERRORIST>" [-399 1755 -63] with "m4a1"
+L 03/24/2026 - 03:39:55: "Ivan<3><BOT><TERRORIST>" [-490 1662 -121] killed "Seth<10><BOT><CT>" [-293 2161 -63] with "ak47"
+L 03/24/2026 - 03:39:55: Team "TERRORIST" triggered "SFUI_Notice_Terrorists_Win" (CT "4") (T "4")
+L 03/24/2026 - 03:39:55: Team "CT" scored "4" with "5" players
+L 03/24/2026 - 03:39:55: Team "TERRORIST" scored "4" with "5" players
+L 03/24/2026 - 03:39:55: MatchStatus: Team playing "CT": Lilmix
+L 03/24/2026 - 03:39:55: MatchStatus: Team playing "TERRORIST": Sangal Esports
+L 03/24/2026 - 03:39:55: MatchStatus: Score: 4:4 on map "de_dust2" RoundsPlayed: 8
+L 03/24/2026 - 03:39:55: World triggered "Round_End"
+L 03/24/2026 - 03:40:02: Starting Freeze period
+L 03/24/2026 - 03:40:02: "Brad<7><BOT><TERRORIST>" triggered "Got_The_Bomb"
+L 03/24/2026 - 03:40:02: MatchStatus: Team playing "CT": Lilmix
+L 03/24/2026 - 03:40:02: MatchStatus: Team playing "TERRORIST": Sangal Esports
+L 03/24/2026 - 03:40:02: MatchStatus: Score: 4:4 on map "de_dust2" RoundsPlayed: 8
+L 03/24/2026 - 03:40:02: "Chet<6><BOT><TERRORIST>" purchased "ak47"
+L 03/24/2026 - 03:40:02: "Chet<6><BOT><TERRORIST>" purchased "item_kevlar"
+L 03/24/2026 - 03:40:02: "Tony<9><BOT><CT>" purchased "m4a1"
+L 03/24/2026 - 03:40:02: "Tony<9><BOT><CT>" purchased "item_assaultsuit"
+L 03/24/2026 - 03:40:02: "Tony<9><BOT><CT>" purchased "hegrenade"
+L 03/24/2026 - 03:40:02: "Troy<11><BOT><CT>" purchased "m4a1"
+L 03/24/2026 - 03:40:02: "Troy<11><BOT><CT>" purchased "item_assaultsuit"
+L 03/24/2026 - 03:40:02: "Troy<11><BOT><CT>" purchased "smokegrenade"
+L 03/24/2026 - 03:40:02: "Chad<5><BOT><TERRORIST>" purchased "unknown"
+L 03/24/2026 - 03:40:02: "Chad<5><BOT><TERRORIST>" purchased "item_kevlar"
+L 03/24/2026 - 03:40:02: "Brad<7><BOT><TERRORIST>" purchased "ak47"
+L 03/24/2026 - 03:40:02: "Brad<7><BOT><TERRORIST>" purchased "item_kevlar"
+L 03/24/2026 - 03:40:02: "Seth<10><BOT><CT>" purchased "m4a1"
+L 03/24/2026 - 03:40:02: "Seth<10><BOT><CT>" purchased "item_assaultsuit"
+L 03/24/2026 - 03:40:02: "Seth<10><BOT><CT>" purchased "incgrenade"
+L 03/24/2026 - 03:40:02: "Jim<12><BOT><CT>" purchased "aug"
+L 03/24/2026 - 03:40:02: "Jim<12><BOT><CT>" purchased "item_assaultsuit"
+L 03/24/2026 - 03:40:02: "Jim<12><BOT><CT>" purchased "incgrenade"
+L 03/24/2026 - 03:40:02: "Ivan<3><BOT><TERRORIST>" purchased "item_kevlar"
+L 03/24/2026 - 03:40:02: "Dan<4><BOT><TERRORIST>" purchased "ak47"
+L 03/24/2026 - 03:40:02: "Dan<4><BOT><TERRORIST>" purchased "item_kevlar"
+L 03/24/2026 - 03:40:03: "Tony<9><BOT><CT>" purchased "item_defuser"
+L 03/24/2026 - 03:40:03: "Seth<10><BOT><CT>" purchased "item_defuser"
+L 03/24/2026 - 03:40:03: "Troy<11><BOT><CT>" purchased "item_defuser"
+L 03/24/2026 - 03:40:03: "Jim<12><BOT><CT>" purchased "item_defuser"
+L 03/24/2026 - 03:40:05: "YurDu<2><STEAM_1:0:90764598><CT>" purchased "m4a1"
+L 03/24/2026 - 03:40:05: "YurDu<2><STEAM_1:0:90764598><CT>" purchased "item_assaultsuit"
+L 03/24/2026 - 03:40:08: "YurDu<2><STEAM_1:0:90764598><CT>" purchased "hegrenade"
+L 03/24/2026 - 03:40:09: "Ivan<3><BOT><TERRORIST>" purchased "smokegrenade"
+L 03/24/2026 - 03:40:09: "Ivan<3><BOT><TERRORIST>" purchased "flashbang"
+L 03/24/2026 - 03:40:09: "Ivan<3><BOT><TERRORIST>" purchased "flashbang"
+L 03/24/2026 - 03:40:09: "Chad<5><BOT><TERRORIST>" purchased "flashbang"
+L 03/24/2026 - 03:40:09: "Chad<5><BOT><TERRORIST>" purchased "flashbang"
+L 03/24/2026 - 03:40:09: "Chad<5><BOT><TERRORIST>" purchased "molotov"
+L 03/24/2026 - 03:40:09: "Chet<6><BOT><TERRORIST>" purchased "flashbang"
+L 03/24/2026 - 03:40:09: "Tony<9><BOT><CT>" purchased "smokegrenade"
+L 03/24/2026 - 03:40:09: "Tony<9><BOT><CT>" purchased "flashbang"
+L 03/24/2026 - 03:40:09: "Tony<9><BOT><CT>" purchased "flashbang"
+L 03/24/2026 - 03:40:09: "Seth<10><BOT><CT>" purchased "smokegrenade"
+L 03/24/2026 - 03:40:09: "Seth<10><BOT><CT>" purchased "flashbang"
+L 03/24/2026 - 03:40:09: "Seth<10><BOT><CT>" purchased "flashbang"
+L 03/24/2026 - 03:40:09: "Troy<11><BOT><CT>" purchased "flashbang"
+L 03/24/2026 - 03:40:09: "Troy<11><BOT><CT>" purchased "flashbang"
+L 03/24/2026 - 03:40:09: "Troy<11><BOT><CT>" purchased "incgrenade"
+L 03/24/2026 - 03:40:09: "Jim<12><BOT><CT>" purchased "smokegrenade"
+L 03/24/2026 - 03:40:09: "Jim<12><BOT><CT>" purchased "flashbang"
+L 03/24/2026 - 03:40:09: "Jim<12><BOT><CT>" purchased "flashbang"
+L 03/24/2026 - 03:40:09: "YurDu<2><STEAM_1:0:90764598><CT>" purchased "flashbang"
+L 03/24/2026 - 03:40:10: World triggered "Round_Start"
+L 03/24/2026 - 03:40:19: "YurDu<2><STEAM_1:0:90764598><CT>" threw flashbang [-1960 1643 109] flashbang entindex 350)
+L 03/24/2026 - 03:40:19: "Ivan<3><BOT><TERRORIST>" threw smokegrenade [1301 1118 -2]
+L 03/24/2026 - 03:40:20: "Chad<5><BOT><TERRORIST>" threw smokegrenade [-287 1458 -27]
+L 03/24/2026 - 03:40:22: Molotov projectile spawned at -1101.820190 1179.892700 9.481314, velocity -488.031525 -198.602600 396.147278
+L 03/24/2026 - 03:40:22: "YurDu<2><STEAM_1:0:90764598><CT>" threw hegrenade [-1982 1326 43]
+L 03/24/2026 - 03:40:22: "Ivan<3><BOT><TERRORIST>" threw flashbang [1100 433 366] flashbang entindex 352)
+L 03/24/2026 - 03:40:22: Molotov projectile spawned at -1113.525146 1156.790527 21.944893, velocity -646.048523 -195.058716 356.633942
+L 03/24/2026 - 03:40:22: "Tony<9><BOT><CT>" threw hegrenade [-1577 1204 56]
+L 03/24/2026 - 03:40:23: "Seth<10><BOT><CT>" threw molotov [-1506 1037 41]
+L 03/24/2026 - 03:40:24: "Jim<12><BOT><CT>" threw molotov [-1756 1138 53]
+L 03/24/2026 - 03:40:27: "Chad<5><BOT><TERRORIST>" threw flashbang [1071 420 399] flashbang entindex 349)
+L 03/24/2026 - 03:40:27: "Chad<5><BOT><TERRORIST>" blinded for 0.22 by "Chad<5><BOT><TERRORIST>" from flashbang entindex 349 
+L 03/24/2026 - 03:40:31: "Tony<9><BOT><CT>" [-338 1097 -70] killed "Dan<4><BOT><TERRORIST>" [-516 605 73] with "m4a1"
+L 03/24/2026 - 03:40:33: "Chad<5><BOT><TERRORIST>" threw flashbang [1069 538 448] flashbang entindex 350)
+L 03/24/2026 - 03:40:33: "Ivan<3><BOT><TERRORIST>" blinded for 2.90 by "Chad<5><BOT><TERRORIST>" from flashbang entindex 350 
+L 03/24/2026 - 03:40:37: "Brad<7><BOT><TERRORIST>" triggered "Dropped_The_Bomb"
+L 03/24/2026 - 03:40:37: "YurDu<2><STEAM_1:0:90764598><CT>" [-757 2222 -113] killed "Brad<7><BOT><TERRORIST>" [1308 2168 65] with "m4a1"
+L 03/24/2026 - 03:40:37: Molotov projectile spawned at 359.455933 243.781784 63.210770, velocity -653.314087 153.749420 -71.880173
+L 03/24/2026 - 03:40:38: "Chad<5><BOT><TERRORIST>" threw molotov [75 311 2]
+L 03/24/2026 - 03:40:39: "Chad<5><BOT><TERRORIST>" [375 240 1] killed "Tony<9><BOT><CT>" [-208 526 64] with "ak47"
+L 03/24/2026 - 03:40:39: "Dan<4><BOT><TERRORIST>" assisted killing "Tony<9><BOT><CT>"
+L 03/24/2026 - 03:40:50: "Chet<6><BOT><TERRORIST>" threw flashbang [1100 433 366] flashbang entindex 352)
+L 03/24/2026 - 03:40:50: "Ivan<3><BOT><TERRORIST>" blinded for 0.69 by "Chet<6><BOT><TERRORIST>" from flashbang entindex 352 
+L 03/24/2026 - 03:40:50: "Dan<4><BOT><TERRORIST>" blinded for 0.87 by "Chet<6><BOT><TERRORIST>" from flashbang entindex 352 
+L 03/24/2026 - 03:40:50: "Chad<5><BOT><TERRORIST>" blinded for 0.87 by "Chet<6><BOT><TERRORIST>" from flashbang entindex 352 
+L 03/24/2026 - 03:40:50: "Brad<7><BOT><TERRORIST>" blinded for 1.39 by "Chet<6><BOT><TERRORIST>" from flashbang entindex 352 
+L 03/24/2026 - 03:40:54: "Seth<10><BOT><CT>" threw flashbang [-302 550 2] flashbang entindex 352)
+L 03/24/2026 - 03:40:54: "Tony<9><BOT><CT>" blinded for 2.74 by "Seth<10><BOT><CT>" from flashbang entindex 352 
+L 03/24/2026 - 03:40:54: "Seth<10><BOT><CT>" blinded for 0.78 by "Seth<10><BOT><CT>" from flashbang entindex 352 
+L 03/24/2026 - 03:40:54: "Troy<11><BOT><CT>" [1166 2050 2] killed "Ivan<3><BOT><TERRORIST>" [1285 2048 65] with "m4a1"
+L 03/24/2026 - 03:40:56: "YurDu<2><STEAM_1:0:90764598><CT>" [1278 2273 13] killed "Chad<5><BOT><TERRORIST>" [1298 1915 65] with "m4a1"
+L 03/24/2026 - 03:41:00: "Troy<11><BOT><CT>" threw flashbang [1369 1293 461] flashbang entindex 352)
+L 03/24/2026 - 03:41:00: "YurDu<2><STEAM_1:0:90764598><CT>" blinded for 3.90 by "Troy<11><BOT><CT>" from flashbang entindex 352 
+L 03/24/2026 - 03:41:00: "Ivan<3><BOT><TERRORIST>" blinded for 0.77 by "Troy<11><BOT><CT>" from flashbang entindex 352 
+L 03/24/2026 - 03:41:00: "Dan<4><BOT><TERRORIST>" blinded for 2.71 by "Troy<11><BOT><CT>" from flashbang entindex 352 
+L 03/24/2026 - 03:41:00: "Chad<5><BOT><TERRORIST>" blinded for 2.71 by "Troy<11><BOT><CT>" from flashbang entindex 352 
+L 03/24/2026 - 03:41:00: "Chet<6><BOT><TERRORIST>" blinded for 2.71 by "Troy<11><BOT><CT>" from flashbang entindex 352 
+L 03/24/2026 - 03:41:00: "Brad<7><BOT><TERRORIST>" blinded for 0.77 by "Troy<11><BOT><CT>" from flashbang entindex 352 
+L 03/24/2026 - 03:41:00: "Troy<11><BOT><CT>" blinded for 0.64 by "Troy<11><BOT><CT>" from flashbang entindex 352 
+L 03/24/2026 - 03:41:05: "Chet<6><BOT><TERRORIST>" [1293 1354 1] killed "Troy<11><BOT><CT>" [1343 1870 57] with "ak47"
+L 03/24/2026 - 03:41:05: "YurDu<2><STEAM_1:0:90764598><CT>" [1708 1875 0] killed "Chet<6><BOT><TERRORIST>" [1293 1354 65] with "ak47"
+L 03/24/2026 - 03:41:05: "Troy<11><BOT><CT>" assisted killing "Chet<6><BOT><TERRORIST>"
+L 03/24/2026 - 03:41:05: Team "CT" triggered "SFUI_Notice_CTs_Win" (CT "5") (T "4")
+L 03/24/2026 - 03:41:05: Team "CT" scored "5" with "5" players
+L 03/24/2026 - 03:41:05: Team "TERRORIST" scored "4" with "5" players
+L 03/24/2026 - 03:41:05: MatchStatus: Team playing "CT": Lilmix
+L 03/24/2026 - 03:41:05: MatchStatus: Team playing "TERRORIST": Sangal Esports
+L 03/24/2026 - 03:41:05: MatchStatus: Score: 5:4 on map "de_dust2" RoundsPlayed: 9
+L 03/24/2026 - 03:41:05: World triggered "Round_End"
+L 03/24/2026 - 03:41:12: Starting Freeze period
+L 03/24/2026 - 03:41:12: "Ivan<3><BOT><TERRORIST>" triggered "Got_The_Bomb"
+L 03/24/2026 - 03:41:12: MatchStatus: Team playing "CT": Lilmix
+L 03/24/2026 - 03:41:12: MatchStatus: Team playing "TERRORIST": Sangal Esports
+L 03/24/2026 - 03:41:12: MatchStatus: Score: 5:4 on map "de_dust2" RoundsPlayed: 9
+L 03/24/2026 - 03:41:12: "Tony<9><BOT><CT>" purchased "m4a1"
+L 03/24/2026 - 03:41:12: "Tony<9><BOT><CT>" purchased "item_assaultsuit"
+L 03/24/2026 - 03:41:12: "Troy<11><BOT><CT>" purchased "m4a1"
+L 03/24/2026 - 03:41:12: "Troy<11><BOT><CT>" purchased "item_assaultsuit"
+L 03/24/2026 - 03:41:12: "Ivan<3><BOT><TERRORIST>" purchased "ak47"
+L 03/24/2026 - 03:41:12: "Ivan<3><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 03/24/2026 - 03:41:12: "Ivan<3><BOT><TERRORIST>" purchased "p250"
+L 03/24/2026 - 03:41:12: "Ivan<3><BOT><TERRORIST>" purchased "flashbang"
+L 03/24/2026 - 03:41:12: "Chad<5><BOT><TERRORIST>" purchased "ak47"
+L 03/24/2026 - 03:41:12: "Chad<5><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 03/24/2026 - 03:41:12: "Chad<5><BOT><TERRORIST>" purchased "hegrenade"
+L 03/24/2026 - 03:41:12: "Jim<12><BOT><CT>" purchased "unknown"
+L 03/24/2026 - 03:41:13: "Dan<4><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 03/24/2026 - 03:41:13: "Dan<4><BOT><TERRORIST>" purchased "flashbang"
+L 03/24/2026 - 03:41:13: "Chet<6><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 03/24/2026 - 03:41:13: "Chet<6><BOT><TERRORIST>" purchased "flashbang"
+L 03/24/2026 - 03:41:13: "Brad<7><BOT><TERRORIST>" purchased "item_assaultsuit"
+L 03/24/2026 - 03:41:13: "Brad<7><BOT><TERRORIST>" purchased "flashbang"
+L 03/24/2026 - 03:41:14: "Chet<6><BOT><TERRORIST>" purchased "p250"
+L 03/24/2026 - 03:41:15: "Brad<7><BOT><TERRORIST>" purchased "deagle"
+L 03/24/2026 - 03:41:16: "Dan<4><BOT><TERRORIST>" purchased "deagle"
+L 03/24/2026 - 03:41:16: "YurDu<2><STEAM_1:0:90764598><CT>" purchased "item_kevlar"
+L 03/24/2026 - 03:41:17: "YurDu<2><STEAM_1:0:90764598><CT>" purchased "item_defuser"
+L 03/24/2026 - 03:41:17: "YurDu<2><STEAM_1:0:90764598><CT>" purchased "incgrenade"
+L 03/24/2026 - 03:41:18: "YurDu<2><STEAM_1:0:90764598><CT>" purchased "smokegrenade"
+L 03/24/2026 - 03:41:18: "YurDu<2><STEAM_1:0:90764598><CT>" purchased "flashbang"
+L 03/24/2026 - 03:41:18: "YurDu<2><STEAM_1:0:90764598><CT>" purchased "hegrenade"
+L 03/24/2026 - 03:41:19: "Ivan<3><BOT><TERRORIST>" purchased "flashbang"
+L 03/24/2026 - 03:41:19: "Chad<5><BOT><TERRORIST>" purchased "smokegrenade"
+L 03/24/2026 - 03:41:19: "Chad<5><BOT><TERRORIST>" purchased "flashbang"
+L 03/24/2026 - 03:41:19: "Chad<5><BOT><TERRORIST>" purchased "flashbang"
+L 03/24/2026 - 03:41:19: "Chet<6><BOT><TERRORIST>" purchased "smokegrenade"
+L 03/24/2026 - 03:41:19: "Chet<6><BOT><TERRORIST>" purchased "flashbang"
+L 03/24/2026 - 03:41:19: "Seth<10><BOT><CT>" purchased "flashbang"
+L 03/24/2026 - 03:41:19: "Seth<10><BOT><CT>" purchased "incgrenade"
+L 03/24/2026 - 03:41:19: "Troy<11><BOT><CT>" purchased "smokegrenade"
+L 03/24/2026 - 03:41:19: "Jim<12><BOT><CT>" purchased "hegrenade"
+L 03/24/2026 - 03:41:20: World triggered "Round_Start"
+L 03/24/2026 - 03:41:27: Molotov projectile spawned at -1231.512939 2258.304688 75.370270, velocity -788.794739 -485.357605 266.773224
+L 03/24/2026 - 03:41:29: "YurDu<2><STEAM_1:0:90764598><CT>" threw molotov [-2030 1615 37]
+L 03/24/2026 - 03:41:29: "Chad<5><BOT><TERRORIST>" threw smokegrenade [-287 1458 -27]
+L 03/24/2026 - 03:41:29: "Jim<12><BOT><CT>" threw flashbang [1369 1293 461] flashbang entindex 367)
+L 03/24/2026 - 03:41:29: "Tony<9><BOT><CT>" blinded for 0.69 by "Jim<12><BOT><CT>" from flashbang entindex 367 
+L 03/24/2026 - 03:41:29: "Troy<11><BOT><CT>" blinded for 1.05 by "Jim<12><BOT><CT>" from flashbang entindex 367 
+L 03/24/2026 - 03:41:29: "Jim<12><BOT><CT>" blinded for 1.54 by "Jim<12><BOT><CT>" from flashbang entindex 367 
+L 03/24/2026 - 03:41:32: "Dan<4><BOT><TERRORIST>" threw flashbang [1100 433 366] flashbang entindex 371)
+L 03/24/2026 - 03:41:32: "YurDu<2><STEAM_1:0:90764598><CT>" threw hegrenade [-1867 1220 57]
+L 03/24/2026 - 03:41:33: "Seth<10><BOT><CT>" threw smokegrenade [-2045 
